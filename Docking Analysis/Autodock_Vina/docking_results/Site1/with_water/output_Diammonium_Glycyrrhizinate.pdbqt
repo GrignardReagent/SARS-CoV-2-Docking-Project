@@ -1,0 +1,950 @@
+MODEL 1
+REMARK VINA RESULT:     -11.3      0.000      0.000
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_33 
+REMARK    2  A    between atoms: O_1  and  C_49 
+REMARK    3  A    between atoms: O_8  and  C_53 
+REMARK    4  A    between atoms: O_12  and  C_56 
+REMARK    5  A    between atoms: O_13  and  C_57 
+REMARK    6  A    between atoms: O_14  and  C_59 
+REMARK    7  A    between atoms: C_52  and  C_55 
+REMARK    8  A    between atoms: C_58  and  C_60 
+ROOT
+HETATM    1  O   MOL     1       9.834  -6.907  25.446  1.00  0.00     0.000 OA
+ENDROOT
+BRANCH   1   2
+HETATM    2  C   MOL     1       9.768  -5.949  25.162  1.00  0.00     0.007 C 
+HETATM    3  C   MOL     1       9.181  -5.248  25.749  1.00  0.00    -0.058 C 
+HETATM    4  C   MOL     1       9.538  -4.109  25.777  1.00  0.00    -0.007 C 
+HETATM    5  C   MOL     1       8.530  -5.066  26.486  1.00  0.00     0.027 C 
+HETATM    6  C   MOL     1       8.875  -5.993  26.341  1.00  0.00    -0.005 C 
+HETATM    7  C   MOL     1       9.691  -3.861  24.635  1.00  0.00    -0.037 A 
+HETATM    8  C   MOL     1       8.558  -3.537  25.998  1.00  0.00     0.006 C 
+HETATM    9  C   MOL     1      10.071  -2.749  24.725  1.00  0.00     0.013 A 
+HETATM   10  C   MOL     1      10.361  -4.524  24.097  1.00  0.00     0.014 C 
+HETATM   11  C   MOL     1       9.518  -3.700  23.276  1.00  0.00     0.081 C 
+HETATM   12  C   MOL     1      10.242  -2.512  23.645  1.00  0.00    -0.024 A 
+HETATM   13  C   MOL     1       9.077  -2.214  24.893  1.00  0.00    -0.033 A 
+HETATM   14  C   MOL     1       9.128  -1.229  24.700  1.00  0.00    -0.030 A 
+HETATM   15  C   MOL     1       8.537  -2.532  25.725  1.00  0.00     0.011 C 
+HETATM   16  C   MOL     1       7.711  -2.046  24.983  1.00  0.00     0.044 C 
+HETATM   17  C   MOL     1       9.640  -0.909  23.901  1.00  0.00    -0.018 A 
+HETATM   18  C   MOL     1       9.244   0.002  23.311  1.00  0.00    -0.002 C 
+HETATM   19  C   MOL     1      10.216  -1.546  23.389  1.00  0.00    -0.036 C 
+HETATM   20  C   MOL     1       8.485  -0.585  25.211  1.00  0.00     0.041 A 
+HETATM   21  C   MOL     1       8.988   0.756  24.120  1.00  0.00    -0.059 C 
+HETATM   22  C   MOL     1      10.230   0.428  22.787  1.00  0.00     0.003 C 
+HETATM   23  C   MOL     1       8.453   0.422  24.950  1.00  0.00     0.009 C 
+HETATM   24  C   MOL     1       8.993   1.815  23.880  1.00  0.00     0.014 C 
+HETATM   25  C   MOL     1       7.694   1.223  24.034  1.00  0.00     0.028 C 
+HETATM   26  C   MOL     1       9.591   2.172  23.047  1.00  0.00     0.253 A 
+HETATM   27  C   MOL     1      10.251   1.483  22.528  1.00  0.00     0.003 A 
+HETATM   28  O   MOL     1      10.182   3.144  22.039  1.00  0.00    -0.382 OA
+HETATM   29  C   MOL     1      11.623   1.470  22.385  1.00  0.00     0.044 C 
+HETATM   30  C   MOL     1      10.522   2.214  21.901  1.00  0.00     0.080 A 
+HETATM   31  O   MOL     1      11.173   2.025  21.165  1.00  0.00     0.000 OA
+HETATM   32  C   MOL     1       9.213  -1.045  26.064  1.00  0.00     0.025 C 
+HETATM   33  C   MOL     1      10.400  -5.575  24.362  1.00  0.00    -0.012 C 
+HETATM   34  O   MOL     1      10.818  -3.150  23.133  1.00  0.00     0.000 OA
+ENDBRANCH   1   2
+BRANCH   1  35
+HETATM   35  C   MOL     1      10.568  -7.486  25.090  1.00  0.00    -0.027 A 
+HETATM   36  O   MOL     1      10.721  -7.544  24.102  1.00  0.00     0.000 OA
+HETATM   37  C   MOL     1      11.387  -8.195  23.734  1.00  0.00     0.096 A 
+HETATM   38  C   MOL     1      11.968  -8.718  24.365  1.00  0.00     0.133 A 
+HETATM   39  C   MOL     1      11.712  -8.768  25.336  1.00  0.00     0.055 A 
+HETATM   40  O   MOL     1      11.570 -10.042  25.846  1.00  0.00     0.000 OA
+HETATM   41  C   MOL     1      11.081  -8.080  25.710  1.00  0.00     0.007 A 
+HETATM   42  H   MOL     1      12.693  -9.708  25.737  1.00  0.00     0.000 HD
+HETATM   43  O   MOL     1      12.072  -9.304  26.944  1.00  0.00     0.000 OA
+HETATM   44  C   MOL     1      11.337  -8.725  27.301  1.00  0.00     0.057 A 
+HETATM   45  C   MOL     1      12.550  -9.934  27.558  1.00  0.00     0.071 C 
+HETATM   46  O   MOL     1      10.860  -8.095  26.686  1.00  0.00     0.000 OA
+HETATM   47  C   MOL     1      11.219  -8.632  28.294  1.00  0.00     0.154 A 
+HETATM   48  C   MOL     1      11.663  -9.297  28.902  1.00  0.00     0.211 A 
+HETATM   49  C   MOL     1      12.431  -9.841  28.552  1.00  0.00     0.146 C 
+BRANCH  37  50
+HETATM   50  C   MOL     1      10.919  -8.896  22.642  1.00  0.00     0.297 C 
+HETATM   51  O   MOL     1      12.232  -8.534  22.259  1.00  0.00    -0.188 OA
+HETATM   52  O   MOL     1      10.809  -7.547  22.234  1.00  0.00    -0.188 OA
+ENDBRANCH  37  50
+BRANCH  38  53
+HETATM   53  O   MOL     1      13.323  -8.654  24.113  1.00  0.00    -0.395 OA
+HETATM   54  H   MOL     1      12.689  -7.934  23.431  1.00  0.00     0.210 HD
+ENDBRANCH  38  53
+BRANCH  47  55
+HETATM   55  O   MOL     1      11.174  -7.336  28.766  1.00  0.00    -0.393 OA
+HETATM   56  H   MOL     1      12.246  -7.662  28.408  1.00  0.00     0.210 HD
+ENDBRANCH  47  55
+BRANCH  48  57
+HETATM   57  O   MOL     1      10.821  -9.955  29.775  1.00  0.00    -0.392 OA
+HETATM   58  H   MOL     1      10.265  -9.516  28.836  1.00  0.00     0.210 HD
+ENDBRANCH  48  57
+BRANCH  49  59
+HETATM   59  O   MOL     1      13.599  -9.756  29.282  1.00  0.00    -0.399 OA
+HETATM   60  H   MOL     1      13.256  -8.725  28.831  1.00  0.00     0.209 HD
+ENDBRANCH  49  59
+BRANCH  45  61
+HETATM   61  C   MOL     1      12.596 -11.230  27.085  1.00  0.00     0.292 C 
+HETATM   62  O   MOL     1      13.259 -11.314  28.331  1.00  0.00    -0.188 OA
+HETATM   63  O   MOL     1      13.898 -10.743  26.826  1.00  0.00    -0.188 OA
+ENDBRANCH  45  61
+ENDBRANCH   1  35
+TORSDOF 8
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:     -11.2      4.848      9.814
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_33 
+REMARK    2  A    between atoms: O_1  and  C_49 
+REMARK    3  A    between atoms: O_8  and  C_53 
+REMARK    4  A    between atoms: O_12  and  C_56 
+REMARK    5  A    between atoms: O_13  and  C_57 
+REMARK    6  A    between atoms: O_14  and  C_59 
+REMARK    7  A    between atoms: C_52  and  C_55 
+REMARK    8  A    between atoms: C_58  and  C_60 
+ROOT
+HETATM    1  O   MOL     1      15.006   1.179  22.657  1.00  0.00     0.000 OA
+ENDROOT
+BRANCH   1   2
+HETATM    2  C   MOL     1      14.236   0.659  23.030  1.00  0.00     0.007 C 
+HETATM    3  C   MOL     1      13.218   0.931  22.765  1.00  0.00    -0.058 C 
+HETATM    4  C   MOL     1      12.404   0.058  22.710  1.00  0.00    -0.007 C 
+HETATM    5  C   MOL     1      12.573   1.564  22.337  1.00  0.00     0.027 C 
+HETATM    6  C   MOL     1      13.557   1.726  22.262  1.00  0.00    -0.005 C 
+HETATM    7  C   MOL     1      12.563  -0.504  23.733  1.00  0.00    -0.037 A 
+HETATM    8  C   MOL     1      11.413   0.617  22.915  1.00  0.00     0.006 C 
+HETATM    9  C   MOL     1      11.767  -1.364  23.610  1.00  0.00     0.013 A 
+HETATM   10  C   MOL     1      13.573  -0.849  23.926  1.00  0.00     0.014 C 
+HETATM   11  C   MOL     1      12.704  -0.815  25.069  1.00  0.00     0.081 C 
+HETATM   12  C   MOL     1      11.927  -1.918  24.568  1.00  0.00    -0.024 A 
+HETATM   13  C   MOL     1      10.815  -0.790  23.866  1.00  0.00    -0.033 A 
+HETATM   14  C   MOL     1      10.051  -1.394  24.115  1.00  0.00    -0.030 A 
+HETATM   15  C   MOL     1      10.621   0.039  23.266  1.00  0.00     0.011 C 
+HETATM   16  C   MOL     1      10.026   0.255  24.299  1.00  0.00     0.044 C 
+HETATM   17  C   MOL     1      10.222  -2.192  24.695  1.00  0.00    -0.018 A 
+HETATM   18  C   MOL     1       9.422  -2.503  25.468  1.00  0.00    -0.002 C 
+HETATM   19  C   MOL     1      11.161  -2.468  24.901  1.00  0.00    -0.036 C 
+HETATM   20  C   MOL     1       9.076  -1.068  23.935  1.00  0.00     0.041 A 
+HETATM   21  C   MOL     1       8.452  -2.467  24.881  1.00  0.00    -0.059 C 
+HETATM   22  C   MOL     1       9.646  -3.665  25.631  1.00  0.00     0.003 C 
+HETATM   23  C   MOL     1       8.274  -1.635  24.278  1.00  0.00     0.009 C 
+HETATM   24  C   MOL     1       7.616  -3.085  25.196  1.00  0.00     0.014 C 
+HETATM   25  C   MOL     1       7.487  -1.682  25.477  1.00  0.00     0.028 C 
+HETATM   26  C   MOL     1       7.803  -3.981  25.780  1.00  0.00     0.253 A 
+HETATM   27  C   MOL     1       8.827  -4.299  25.957  1.00  0.00     0.003 A 
+HETATM   28  O   MOL     1       7.511  -5.237  26.584  1.00  0.00    -0.382 OA
+HETATM   29  C   MOL     1       9.501  -5.444  25.585  1.00  0.00     0.044 C 
+HETATM   30  C   MOL     1       8.494  -5.069  26.504  1.00  0.00     0.080 A 
+HETATM   31  O   MOL     1       9.144  -5.698  26.929  1.00  0.00     0.000 OA
+HETATM   32  C   MOL     1       9.576  -1.189  22.837  1.00  0.00     0.025 C 
+HETATM   33  C   MOL     1      14.416  -0.264  23.573  1.00  0.00    -0.012 C 
+HETATM   34  O   MOL     1      12.867  -2.194  24.774  1.00  0.00     0.000 OA
+ENDBRANCH   1   2
+BRANCH   1  35
+HETATM   35  C   MOL     1      15.796   1.388  23.234  1.00  0.00    -0.027 A 
+HETATM   36  O   MOL     1      15.656   1.715  24.171  1.00  0.00     0.000 OA
+HETATM   37  C   MOL     1      16.436   2.020  24.719  1.00  0.00     0.096 A 
+HETATM   38  C   MOL     1      17.368   1.903  24.360  1.00  0.00     0.133 A 
+HETATM   39  C   MOL     1      17.493   1.719  23.380  1.00  0.00     0.055 A 
+HETATM   40  O   MOL     1      18.319   2.600  22.713  1.00  0.00     0.000 OA
+HETATM   41  C   MOL     1      16.718   1.367  22.846  1.00  0.00     0.007 A 
+HETATM   42  H   MOL     1      18.907   1.809  23.355  1.00  0.00     0.000 HD
+HETATM   43  O   MOL     1      18.555   1.370  22.055  1.00  0.00     0.000 OA
+HETATM   44  C   MOL     1      17.765   1.161  21.478  1.00  0.00     0.057 A 
+HETATM   45  C   MOL     1      19.472   1.396  21.653  1.00  0.00     0.071 C 
+HETATM   46  O   MOL     1      16.849   1.135  21.882  1.00  0.00     0.000 OA
+HETATM   47  C   MOL     1      17.911   0.787  20.557  1.00  0.00     0.154 A 
+HETATM   48  C   MOL     1      18.822   0.860  20.140  1.00  0.00     0.211 A 
+HETATM   49  C   MOL     1      19.618   1.022  20.732  1.00  0.00     0.146 C 
+BRANCH  37  50
+HETATM   50  C   MOL     1      16.205   3.202  25.390  1.00  0.00     0.297 C 
+HETATM   51  O   MOL     1      16.609   2.317  26.417  1.00  0.00    -0.188 OA
+HETATM   52  O   MOL     1      15.050   2.436  25.671  1.00  0.00    -0.188 OA
+ENDBRANCH  37  50
+BRANCH  38  53
+HETATM   53  O   MOL     1      18.249   1.257  25.202  1.00  0.00    -0.395 OA
+HETATM   54  H   MOL     1      18.739   2.152  24.614  1.00  0.00     0.210 HD
+ENDBRANCH  38  53
+BRANCH  47  55
+HETATM   55  O   MOL     1      17.221  -0.374  20.273  1.00  0.00    -0.393 OA
+HETATM   56  H   MOL     1      17.932  -0.031  19.400  1.00  0.00     0.210 HD
+ENDBRANCH  47  55
+BRANCH  48  57
+HETATM   57  O   MOL     1      18.862   1.484  18.910  1.00  0.00    -0.392 OA
+HETATM   58  H   MOL     1      19.444   2.070  19.747  1.00  0.00     0.210 HD
+ENDBRANCH  48  57
+BRANCH  49  59
+HETATM   59  O   MOL     1      20.635   0.097  20.622  1.00  0.00    -0.399 OA
+HETATM   60  H   MOL     1      19.594  -0.387  20.877  1.00  0.00     0.209 HD
+ENDBRANCH  49  59
+BRANCH  45  61
+HETATM   61  C   MOL     1      20.162   2.557  21.938  1.00  0.00     0.292 C 
+HETATM   62  O   MOL     1      21.065   1.831  21.126  1.00  0.00    -0.188 OA
+HETATM   63  O   MOL     1      20.742   1.610  22.813  1.00  0.00    -0.188 OA
+ENDBRANCH  45  61
+ENDBRANCH   1  35
+TORSDOF 8
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:     -10.9      2.981      9.834
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_33 
+REMARK    2  A    between atoms: O_1  and  C_49 
+REMARK    3  A    between atoms: O_8  and  C_53 
+REMARK    4  A    between atoms: O_12  and  C_56 
+REMARK    5  A    between atoms: O_13  and  C_57 
+REMARK    6  A    between atoms: O_14  and  C_59 
+REMARK    7  A    between atoms: C_52  and  C_55 
+REMARK    8  A    between atoms: C_58  and  C_60 
+ROOT
+HETATM    1  O   MOL     1       9.902  -1.657  22.686  1.00  0.00     0.000 OA
+ENDROOT
+BRANCH   1   2
+HETATM    2  C   MOL     1      10.132  -2.625  22.798  1.00  0.00     0.007 C 
+HETATM    3  C   MOL     1       9.619  -3.222  23.547  1.00  0.00    -0.058 C 
+HETATM    4  C   MOL     1       9.455  -4.383  23.316  1.00  0.00    -0.007 C 
+HETATM    5  C   MOL     1       9.003  -3.287  24.331  1.00  0.00     0.027 C 
+HETATM    6  C   MOL     1       9.140  -2.408  23.874  1.00  0.00    -0.005 C 
+HETATM    7  C   MOL     1      10.532  -4.734  22.992  1.00  0.00    -0.037 A 
+HETATM    8  C   MOL     1       9.380  -4.846  24.373  1.00  0.00     0.006 C 
+HETATM    9  C   MOL     1      10.305  -5.864  22.748  1.00  0.00     0.013 A 
+HETATM   10  C   MOL     1      10.980  -4.178  22.175  1.00  0.00     0.014 C 
+HETATM   11  C   MOL     1      11.887  -4.987  22.941  1.00  0.00     0.081 C 
+HETATM   12  C   MOL     1      11.318  -6.201  22.416  1.00  0.00    -0.024 A 
+HETATM   13  C   MOL     1      10.287  -6.295  23.805  1.00  0.00    -0.033 A 
+HETATM   14  C   MOL     1      10.405  -7.292  23.821  1.00  0.00    -0.030 A 
+HETATM   15  C   MOL     1       9.588  -5.864  24.447  1.00  0.00     0.011 C 
+HETATM   16  C   MOL     1      10.436  -6.334  25.175  1.00  0.00     0.044 C 
+HETATM   17  C   MOL     1      11.076  -7.719  23.212  1.00  0.00    -0.018 A 
+HETATM   18  C   MOL     1      11.669  -8.636  23.588  1.00  0.00    -0.002 C 
+HETATM   19  C   MOL     1      11.513  -7.178  22.494  1.00  0.00    -0.036 C 
+HETATM   20  C   MOL     1       9.980  -7.834  24.605  1.00  0.00     0.041 A 
+HETATM   21  C   MOL     1      10.875  -9.297  24.056  1.00  0.00    -0.059 C 
+HETATM   22  C   MOL     1      11.978  -9.188  22.574  1.00  0.00     0.003 C 
+HETATM   23  C   MOL     1      10.178  -8.852  24.692  1.00  0.00     0.009 C 
+HETATM   24  C   MOL     1      11.043 -10.369  24.117  1.00  0.00     0.014 C 
+HETATM   25  C   MOL     1      11.165  -9.654  25.357  1.00  0.00     0.028 C 
+HETATM   26  C   MOL     1      11.729 -10.842  23.422  1.00  0.00     0.253 A 
+HETATM   27  C   MOL     1      12.161 -10.258  22.615  1.00  0.00     0.003 A 
+HETATM   28  O   MOL     1      12.549 -11.940  22.765  1.00  0.00    -0.382 OA
+HETATM   29  C   MOL     1      12.053 -10.377  21.245  1.00  0.00     0.044 C 
+HETATM   30  C   MOL     1      12.682 -11.058  22.313  1.00  0.00     0.080 A 
+HETATM   31  O   MOL     1      13.297 -10.986  21.528  1.00  0.00     0.000 OA
+HETATM   32  C   MOL     1       9.040  -7.373  23.994  1.00  0.00     0.025 C 
+HETATM   33  C   MOL     1      10.779  -3.116  22.077  1.00  0.00    -0.012 C 
+HETATM   34  O   MOL     1      11.756  -5.659  21.697  1.00  0.00     0.000 OA
+ENDBRANCH   1   2
+BRANCH   1  35
+HETATM   35  C   MOL     1      10.627  -0.981  22.553  1.00  0.00    -0.027 A 
+HETATM   36  O   MOL     1      11.217  -0.727  23.322  1.00  0.00     0.000 OA
+HETATM   37  C   MOL     1      11.878   0.019  23.224  1.00  0.00     0.096 A 
+HETATM   38  C   MOL     1      12.014   0.442  22.323  1.00  0.00     0.133 A 
+HETATM   39  C   MOL     1      11.328   0.292  21.604  1.00  0.00     0.055 A 
+HETATM   40  O   MOL     1      10.785   1.435  21.055  1.00  0.00     0.000 OA
+HETATM   41  C   MOL     1      10.698  -0.488  21.686  1.00  0.00     0.007 A 
+HETATM   42  H   MOL     1      11.861   1.191  20.648  1.00  0.00     0.000 HD
+HETATM   43  O   MOL     1      10.809   0.531  19.968  1.00  0.00     0.000 OA
+HETATM   44  C   MOL     1      10.083  -0.146  20.100  1.00  0.00     0.057 A 
+HETATM   45  C   MOL     1      10.848   1.057  19.117  1.00  0.00     0.071 C 
+HETATM   46  O   MOL     1      10.045  -0.672  20.951  1.00  0.00     0.000 OA
+HETATM   47  C   MOL     1       9.526  -0.434  19.315  1.00  0.00     0.154 A 
+HETATM   48  C   MOL     1       9.533   0.127  18.481  1.00  0.00     0.211 A 
+HETATM   49  C   MOL     1      10.291   0.770  18.332  1.00  0.00     0.146 C 
+BRANCH  37  50
+HETATM   50  C   MOL     1      11.886   0.888  24.294  1.00  0.00     0.297 C 
+HETATM   51  O   MOL     1      13.226   0.441  24.227  1.00  0.00    -0.188 OA
+HETATM   52  O   MOL     1      11.865  -0.385  24.909  1.00  0.00    -0.188 OA
+ENDBRANCH  37  50
+BRANCH  38  53
+HETATM   53  O   MOL     1      13.322   0.503  21.888  1.00  0.00    -0.395 OA
+HETATM   54  H   MOL     1      13.151   1.040  22.921  1.00  0.00     0.210 HD
+ENDBRANCH  38  53
+BRANCH  47  55
+HETATM   55  O   MOL     1       9.447  -1.796  19.112  1.00  0.00    -0.393 OA
+HETATM   56  H   MOL     1       9.708  -1.507  20.222  1.00  0.00     0.210 HD
+ENDBRANCH  47  55
+BRANCH  48  57
+HETATM   57  O   MOL     1       8.297   0.559  18.048  1.00  0.00    -0.392 OA
+HETATM   58  H   MOL     1       8.491  -0.582  17.835  1.00  0.00     0.210 HD
+ENDBRANCH  48  57
+BRANCH  49  59
+HETATM   59  O   MOL     1      10.977   0.611  17.146  1.00  0.00    -0.399 OA
+HETATM   60  H   MOL     1      10.337   1.597  17.183  1.00  0.00     0.209 HD
+ENDBRANCH  49  59
+BRANCH  45  61
+HETATM   61  C   MOL     1      10.928   2.420  19.321  1.00  0.00     0.292 C 
+HETATM   62  O   MOL     1      10.928   2.300  17.911  1.00  0.00    -0.188 OA
+HETATM   63  O   MOL     1      12.257   2.061  18.996  1.00  0.00    -0.188 OA
+ENDBRANCH  45  61
+ENDBRANCH   1  35
+TORSDOF 8
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:     -10.6      2.626      3.990
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_33 
+REMARK    2  A    between atoms: O_1  and  C_49 
+REMARK    3  A    between atoms: O_8  and  C_53 
+REMARK    4  A    between atoms: O_12  and  C_56 
+REMARK    5  A    between atoms: O_13  and  C_57 
+REMARK    6  A    between atoms: O_14  and  C_59 
+REMARK    7  A    between atoms: C_52  and  C_55 
+REMARK    8  A    between atoms: C_58  and  C_60 
+ROOT
+HETATM    1  O   MOL     1      11.945  -7.486  23.073  1.00  0.00     0.000 OA
+ENDROOT
+BRANCH   1   2
+HETATM    2  C   MOL     1      11.504  -6.600  23.227  1.00  0.00     0.007 C 
+HETATM    3  C   MOL     1      10.817  -6.474  24.059  1.00  0.00    -0.058 C 
+HETATM    4  C   MOL     1      10.756  -5.396  24.572  1.00  0.00    -0.007 C 
+HETATM    5  C   MOL     1      10.277  -6.863  24.804  1.00  0.00     0.027 C 
+HETATM    6  C   MOL     1      10.893  -7.447  24.276  1.00  0.00    -0.005 C 
+HETATM    7  C   MOL     1      10.621  -4.680  23.647  1.00  0.00    -0.037 A 
+HETATM    8  C   MOL     1       9.690  -5.385  25.019  1.00  0.00     0.006 C 
+HETATM    9  C   MOL     1      10.600  -3.642  24.203  1.00  0.00     0.013 A 
+HETATM   10  C   MOL     1      11.379  -4.763  22.875  1.00  0.00     0.014 C 
+HETATM   11  C   MOL     1      10.178  -4.076  22.488  1.00  0.00     0.081 C 
+HETATM   12  C   MOL     1      10.496  -2.952  23.329  1.00  0.00    -0.024 A 
+HETATM   13  C   MOL     1       9.526  -3.644  24.587  1.00  0.00    -0.033 A 
+HETATM   14  C   MOL     1       9.198  -2.727  24.835  1.00  0.00    -0.030 A 
+HETATM   15  C   MOL     1       9.277  -4.446  25.204  1.00  0.00     0.011 C 
+HETATM   16  C   MOL     1       8.222  -4.066  24.743  1.00  0.00     0.044 C 
+HETATM   17  C   MOL     1       9.427  -1.947  24.249  1.00  0.00    -0.018 A 
+HETATM   18  C   MOL     1       8.647  -1.107  24.108  1.00  0.00    -0.002 C 
+HETATM   19  C   MOL     1      10.094  -2.055  23.513  1.00  0.00    -0.036 C 
+HETATM   20  C   MOL     1       8.467  -2.640  25.574  1.00  0.00     0.041 A 
+HETATM   21  C   MOL     1       8.284  -0.896  25.162  1.00  0.00    -0.059 C 
+HETATM   22  C   MOL     1       9.321  -0.165  23.815  1.00  0.00     0.003 C 
+HETATM   23  C   MOL     1       8.045  -1.709  25.770  1.00  0.00     0.009 C 
+HETATM   24  C   MOL     1       7.881   0.084  25.399  1.00  0.00     0.014 C 
+HETATM   25  C   MOL     1       6.913  -0.971  25.288  1.00  0.00     0.028 C 
+HETATM   26  C   MOL     1       8.169   0.941  24.799  1.00  0.00     0.253 A 
+HETATM   27  C   MOL     1       8.931   0.825  24.033  1.00  0.00     0.003 A 
+HETATM   28  O   MOL     1       8.209   2.377  24.304  1.00  0.00    -0.382 OA
+HETATM   29  C   MOL     1      10.178   1.399  23.896  1.00  0.00     0.044 C 
+HETATM   30  C   MOL     1       8.823   1.787  23.779  1.00  0.00     0.080 A 
+HETATM   31  O   MOL     1       9.367   2.171  23.032  1.00  0.00     0.000 OA
+HETATM   32  C   MOL     1       9.441  -3.080  26.146  1.00  0.00     0.025 C 
+HETATM   33  C   MOL     1      11.824  -5.729  22.663  1.00  0.00    -0.012 C 
+HETATM   34  O   MOL     1      11.164  -3.060  22.592  1.00  0.00     0.000 OA
+ENDBRANCH   1   2
+BRANCH   1  35
+HETATM   35  C   MOL     1      12.348  -7.698  22.182  1.00  0.00    -0.027 A 
+HETATM   36  O   MOL     1      11.769  -7.703  21.363  1.00  0.00     0.000 OA
+HETATM   37  C   MOL     1      12.143  -8.009  20.486  1.00  0.00     0.096 A 
+HETATM   38  C   MOL     1      13.123  -8.217  20.412  1.00  0.00     0.133 A 
+HETATM   39  C   MOL     1      13.658  -8.354  21.252  1.00  0.00     0.055 A 
+HETATM   40  O   MOL     1      14.333  -9.554  21.334  1.00  0.00     0.000 OA
+HETATM   41  C   MOL     1      13.299  -8.000  22.122  1.00  0.00     0.007 A 
+HETATM   42  H   MOL     1      14.864  -8.769  20.637  1.00  0.00     0.000 HD
+HETATM   43  O   MOL     1      15.188  -8.651  22.011  1.00  0.00     0.000 OA
+HETATM   44  C   MOL     1      14.785  -8.439  22.903  1.00  0.00     0.057 A 
+HETATM   45  C   MOL     1      16.124  -9.000  21.959  1.00  0.00     0.071 C 
+HETATM   46  O   MOL     1      13.848  -8.090  22.954  1.00  0.00     0.000 OA
+HETATM   47  C   MOL     1      15.378  -8.387  23.712  1.00  0.00     0.154 A 
+HETATM   48  C   MOL     1      16.300  -8.784  23.668  1.00  0.00     0.211 A 
+HETATM   49  C   MOL     1      16.717  -8.948  22.768  1.00  0.00     0.146 C 
+BRANCH  37  50
+HETATM   50  C   MOL     1      11.303  -8.865  19.804  1.00  0.00     0.297 C 
+HETATM   51  O   MOL     1      11.679  -7.921  18.819  1.00  0.00    -0.188 OA
+HETATM   52  O   MOL     1      10.485  -7.740  20.061  1.00  0.00    -0.188 OA
+ENDBRANCH  37  50
+BRANCH  38  53
+HETATM   53  O   MOL     1      13.787  -7.578  19.385  1.00  0.00    -0.395 OA
+HETATM   54  H   MOL     1      13.539  -6.868  20.290  1.00  0.00     0.210 HD
+ENDBRANCH  38  53
+BRANCH  47  55
+HETATM   55  O   MOL     1      15.266  -7.230  24.455  1.00  0.00    -0.393 OA
+HETATM   56  H   MOL     1      15.751  -8.120  25.053  1.00  0.00     0.210 HD
+ENDBRANCH  47  55
+BRANCH  48  57
+HETATM   57  O   MOL     1      16.588  -9.724  24.635  1.00  0.00    -0.392 OA
+HETATM   58  H   MOL     1      15.597  -9.954  24.044  1.00  0.00     0.210 HD
+ENDBRANCH  48  57
+BRANCH  49  59
+HETATM   59  O   MOL     1      17.945  -8.353  22.567  1.00  0.00    -0.399 OA
+HETATM   60  H   MOL     1      17.775  -9.304  21.897  1.00  0.00     0.209 HD
+ENDBRANCH  49  59
+BRANCH  45  61
+HETATM   61  C   MOL     1      16.236 -10.158  21.215  1.00  0.00     0.292 C 
+HETATM   62  O   MOL     1      17.560  -9.924  21.656  1.00  0.00    -0.188 OA
+HETATM   63  O   MOL     1      16.729  -9.161  20.342  1.00  0.00    -0.188 OA
+ENDBRANCH  45  61
+ENDBRANCH   1  35
+TORSDOF 8
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:     -10.5      6.399     11.775
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_33 
+REMARK    2  A    between atoms: O_1  and  C_49 
+REMARK    3  A    between atoms: O_8  and  C_53 
+REMARK    4  A    between atoms: O_12  and  C_56 
+REMARK    5  A    between atoms: O_13  and  C_57 
+REMARK    6  A    between atoms: O_14  and  C_59 
+REMARK    7  A    between atoms: C_52  and  C_55 
+REMARK    8  A    between atoms: C_58  and  C_60 
+ROOT
+HETATM    1  O   MOL     1      11.647   3.372  19.703  1.00  0.00     0.000 OA
+ENDROOT
+BRANCH   1   2
+HETATM    2  C   MOL     1      12.529   3.746  19.411  1.00  0.00     0.007 C 
+HETATM    3  C   MOL     1      12.612   4.794  19.139  1.00  0.00    -0.058 C 
+HETATM    4  C   MOL     1      13.651   5.345  19.350  1.00  0.00    -0.007 C 
+HETATM    5  C   MOL     1      12.182   5.675  18.938  1.00  0.00     0.027 C 
+HETATM    6  C   MOL     1      11.624   4.905  19.249  1.00  0.00    -0.005 C 
+HETATM    7  C   MOL     1      14.434   4.602  18.879  1.00  0.00    -0.037 A 
+HETATM    8  C   MOL     1      13.654   6.197  18.569  1.00  0.00     0.006 C 
+HETATM    9  C   MOL     1      15.430   5.173  19.144  1.00  0.00     0.013 A 
+HETATM   10  C   MOL     1      14.390   3.581  19.243  1.00  0.00     0.014 C 
+HETATM   11  C   MOL     1      15.129   3.771  18.025  1.00  0.00     0.081 C 
+HETATM   12  C   MOL     1      16.183   4.463  18.720  1.00  0.00    -0.024 A 
+HETATM   13  C   MOL     1      15.424   5.970  18.327  1.00  0.00    -0.033 A 
+HETATM   14  C   MOL     1      16.329   6.382  18.178  1.00  0.00    -0.030 A 
+HETATM   15  C   MOL     1      14.586   6.589  18.317  1.00  0.00     0.011 C 
+HETATM   16  C   MOL     1      15.022   6.634  17.187  1.00  0.00     0.044 C 
+HETATM   17  C   MOL     1      17.143   5.799  18.182  1.00  0.00    -0.018 A 
+HETATM   18  C   MOL     1      18.008   6.043  17.457  1.00  0.00    -0.002 C 
+HETATM   19  C   MOL     1      17.073   4.846  18.476  1.00  0.00    -0.036 C 
+HETATM   20  C   MOL     1      16.379   7.363  17.826  1.00  0.00     0.041 A 
+HETATM   21  C   MOL     1      18.152   7.163  17.576  1.00  0.00    -0.059 C 
+HETATM   22  C   MOL     1      18.953   5.548  17.994  1.00  0.00     0.003 C 
+HETATM   23  C   MOL     1      17.303   7.770  17.571  1.00  0.00     0.009 C 
+HETATM   24  C   MOL     1      19.121   7.601  17.357  1.00  0.00     0.014 C 
+HETATM   25  C   MOL     1      18.098   7.846  16.379  1.00  0.00     0.028 C 
+HETATM   26  C   MOL     1      20.012   6.983  17.412  1.00  0.00     0.253 A 
+HETATM   27  C   MOL     1      19.934   5.964  17.780  1.00  0.00     0.003 A 
+HETATM   28  O   MOL     1      21.478   6.597  17.315  1.00  0.00    -0.382 OA
+HETATM   29  C   MOL     1      20.488   5.350  18.884  1.00  0.00     0.044 C 
+HETATM   30  C   MOL     1      20.914   5.832  17.625  1.00  0.00     0.080 A 
+HETATM   31  O   MOL     1      21.337   4.949  17.827  1.00  0.00     0.000 OA
+HETATM   32  C   MOL     1      15.878   7.450  18.926  1.00  0.00     0.025 C 
+HETATM   33  C   MOL     1      13.431   3.149  19.510  1.00  0.00    -0.012 C 
+HETATM   34  O   MOL     1      16.112   3.508  19.014  1.00  0.00     0.000 OA
+ENDBRANCH   1   2
+BRANCH   1  35
+HETATM   35  C   MOL     1      11.362   2.463  19.398  1.00  0.00    -0.027 A 
+HETATM   36  O   MOL     1      11.056   2.329  18.454  1.00  0.00     0.000 OA
+HETATM   37  C   MOL     1      10.676   1.447  18.170  1.00  0.00     0.096 A 
+HETATM   38  C   MOL     1      10.695   0.671  18.808  1.00  0.00     0.133 A 
+HETATM   39  C   MOL     1      10.860   0.847  19.784  1.00  0.00     0.055 A 
+HETATM   40  O   MOL     1       9.896   0.365  20.644  1.00  0.00     0.000 OA
+HETATM   41  C   MOL     1      11.287   1.716  20.058  1.00  0.00     0.007 A 
+HETATM   42  H   MOL     1      10.627  -0.469  20.251  1.00  0.00     0.000 HD
+HETATM   43  O   MOL     1      11.092   0.235  21.389  1.00  0.00     0.000 OA
+HETATM   44  C   MOL     1      11.378   1.144  21.694  1.00  0.00     0.057 A 
+HETATM   45  C   MOL     1      10.971  -0.499  22.059  1.00  0.00     0.071 C 
+HETATM   46  O   MOL     1      11.499   1.877  21.022  1.00  0.00     0.000 OA
+HETATM   47  C   MOL     1      11.730   1.264  22.627  1.00  0.00     0.154 A 
+HETATM   48  C   MOL     1      11.563   0.545  23.308  1.00  0.00     0.211 A 
+HETATM   49  C   MOL     1      11.323  -0.379  22.993  1.00  0.00     0.146 C 
+BRANCH  37  50
+HETATM   50  C   MOL     1       9.527   1.564  17.415  1.00  0.00     0.297 C 
+HETATM   51  O   MOL     1      10.410   0.866  16.559  1.00  0.00    -0.188 OA
+HETATM   52  O   MOL     1      10.370   2.567  16.883  1.00  0.00    -0.188 OA
+ENDBRANCH  37  50
+BRANCH  38  53
+HETATM   53  O   MOL     1      11.252  -0.489  18.314  1.00  0.00    -0.395 OA
+HETATM   54  H   MOL     1      11.909   0.465  18.108  1.00  0.00     0.210 HD
+ENDBRANCH  38  53
+BRANCH  47  55
+HETATM   55  O   MOL     1      12.953   1.895  22.722  1.00  0.00    -0.393 OA
+HETATM   56  H   MOL     1      12.984   0.919  22.066  1.00  0.00     0.210 HD
+ENDBRANCH  47  55
+BRANCH  48  57
+HETATM   57  O   MOL     1      10.931   0.958  24.463  1.00  0.00    -0.392 OA
+HETATM   58  H   MOL     1      11.291   1.850  23.786  1.00  0.00     0.210 HD
+ENDBRANCH  48  57
+BRANCH  49  59
+HETATM   59  O   MOL     1      12.139  -1.392  23.452  1.00  0.00    -0.399 OA
+HETATM   60  H   MOL     1      11.561  -1.673  22.467  1.00  0.00     0.209 HD
+ENDBRANCH  49  59
+BRANCH  45  61
+HETATM   61  C   MOL     1       9.747  -1.130  21.964  1.00  0.00     0.292 C 
+HETATM   62  O   MOL     1      10.380  -1.804  23.035  1.00  0.00    -0.188 OA
+HETATM   63  O   MOL     1      10.632  -2.039  21.337  1.00  0.00    -0.188 OA
+ENDBRANCH  45  61
+ENDBRANCH   1  35
+TORSDOF 8
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:     -10.3      3.223      8.842
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_33 
+REMARK    2  A    between atoms: O_1  and  C_49 
+REMARK    3  A    between atoms: O_8  and  C_53 
+REMARK    4  A    between atoms: O_12  and  C_56 
+REMARK    5  A    between atoms: O_13  and  C_57 
+REMARK    6  A    between atoms: O_14  and  C_59 
+REMARK    7  A    between atoms: C_52  and  C_55 
+REMARK    8  A    between atoms: C_58  and  C_60 
+ROOT
+HETATM    1  O   MOL     1      10.833  -1.311  24.765  1.00  0.00     0.000 OA
+ENDROOT
+BRANCH   1   2
+HETATM    2  C   MOL     1      10.968  -2.278  24.542  1.00  0.00     0.007 C 
+HETATM    3  C   MOL     1      10.382  -3.039  25.049  1.00  0.00    -0.058 C 
+HETATM    4  C   MOL     1      10.115  -4.033  24.443  1.00  0.00    -0.007 C 
+HETATM    5  C   MOL     1       9.743  -3.304  25.772  1.00  0.00     0.027 C 
+HETATM    6  C   MOL     1       9.974  -2.340  25.637  1.00  0.00    -0.005 C 
+HETATM    7  C   MOL     1      11.161  -4.357  24.009  1.00  0.00    -0.037 A 
+HETATM    8  C   MOL     1       9.970  -4.815  25.282  1.00  0.00     0.006 C 
+HETATM    9  C   MOL     1      10.835  -5.311  23.400  1.00  0.00     0.013 A 
+HETATM   10  C   MOL     1      11.680  -3.605  23.424  1.00  0.00     0.014 C 
+HETATM   11  C   MOL     1      12.487  -4.708  23.864  1.00  0.00     0.081 C 
+HETATM   12  C   MOL     1      11.820  -5.613  22.965  1.00  0.00    -0.024 A 
+HETATM   13  C   MOL     1      10.750  -6.068  24.250  1.00  0.00    -0.033 A 
+HETATM   14  C   MOL     1      10.773  -7.020  23.928  1.00  0.00    -0.030 A 
+HETATM   15  C   MOL     1      10.080  -5.814  25.006  1.00  0.00     0.011 C 
+HETATM   16  C   MOL     1      10.861  -6.581  25.526  1.00  0.00     0.044 C 
+HETATM   17  C   MOL     1      11.415  -7.280  23.204  1.00  0.00    -0.018 A 
+HETATM   18  C   MOL     1      11.910  -8.323  23.244  1.00  0.00    -0.002 C 
+HETATM   19  C   MOL     1      11.919  -6.574  22.707  1.00  0.00    -0.036 C 
+HETATM   20  C   MOL     1      10.280  -7.749  24.487  1.00  0.00     0.041 A 
+HETATM   21  C   MOL     1      11.045  -9.023  23.469  1.00  0.00    -0.059 C 
+HETATM   22  C   MOL     1      12.190  -8.528  22.101  1.00  0.00     0.003 C 
+HETATM   23  C   MOL     1      10.378  -8.752  24.224  1.00  0.00     0.009 C 
+HETATM   24  C   MOL     1      11.110 -10.063  23.163  1.00  0.00     0.014 C 
+HETATM   25  C   MOL     1      11.268  -9.823  24.570  1.00  0.00     0.028 C 
+HETATM   26  C   MOL     1      11.765 -10.339  22.343  1.00  0.00     0.253 A 
+HETATM   27  C   MOL     1      12.271  -9.562  21.777  1.00  0.00     0.003 A 
+HETATM   28  O   MOL     1      12.494 -11.226  21.347  1.00  0.00    -0.382 OA
+HETATM   29  C   MOL     1      12.185  -9.202  20.448  1.00  0.00     0.044 C 
+HETATM   30  C   MOL     1      12.720 -10.260  21.218  1.00  0.00     0.080 A 
+HETATM   31  O   MOL     1      13.359  -9.989  20.498  1.00  0.00     0.000 OA
+HETATM   32  C   MOL     1       9.402  -7.021  24.076  1.00  0.00     0.025 C 
+HETATM   33  C   MOL     1      11.583  -2.557  23.692  1.00  0.00    -0.012 C 
+HETATM   34  O   MOL     1      12.324  -4.906  22.468  1.00  0.00     0.000 OA
+ENDBRANCH   1   2
+BRANCH   1  35
+HETATM   35  C   MOL     1      11.055  -0.605  24.092  1.00  0.00    -0.027 A 
+HETATM   36  O   MOL     1      10.452  -0.460  23.305  1.00  0.00     0.000 OA
+HETATM   37  C   MOL     1      10.718   0.175  22.578  1.00  0.00     0.096 A 
+HETATM   38  C   MOL     1      11.543   0.738  22.691  1.00  0.00     0.133 A 
+HETATM   39  C   MOL     1      12.212   0.486  23.397  1.00  0.00     0.055 A 
+HETATM   40  O   MOL     1      13.502   0.293  22.948  1.00  0.00     0.000 OA
+HETATM   41  C   MOL     1      11.924  -0.114  24.152  1.00  0.00     0.007 A 
+HETATM   42  H   MOL     1      13.211   1.428  23.050  1.00  0.00     0.000 HD
+HETATM   43  O   MOL     1      13.685   0.832  24.243  1.00  0.00     0.000 OA
+HETATM   44  C   MOL     1      13.463   0.125  24.917  1.00  0.00     0.057 A 
+HETATM   45  C   MOL     1      14.576   1.287  24.276  1.00  0.00     0.071 C 
+HETATM   46  O   MOL     1      12.571  -0.329  24.883  1.00  0.00     0.000 OA
+HETATM   47  C   MOL     1      14.044   0.017  25.730  1.00  0.00     0.154 A 
+HETATM   48  C   MOL     1      14.957   0.436  25.735  1.00  0.00     0.211 A 
+HETATM   49  C   MOL     1      15.157   1.179  25.089  1.00  0.00     0.146 C 
+BRANCH  37  50
+HETATM   50  C   MOL     1      10.513  -0.329  21.311  1.00  0.00     0.297 C 
+HETATM   51  O   MOL     1       9.777   0.878  21.305  1.00  0.00    -0.188 OA
+HETATM   52  O   MOL     1       9.311  -0.645  21.985  1.00  0.00    -0.188 OA
+ENDBRANCH  37  50
+BRANCH  38  53
+HETATM   53  O   MOL     1      11.366   2.092  22.499  1.00  0.00    -0.395 OA
+HETATM   54  H   MOL     1      11.283   1.769  23.627  1.00  0.00     0.210 HD
+ENDBRANCH  38  53
+BRANCH  47  55
+HETATM   55  O   MOL     1      13.379   0.030  26.938  1.00  0.00    -0.393 OA
+HETATM   56  H   MOL     1      12.683  -0.240  26.029  1.00  0.00     0.210 HD
+ENDBRANCH  47  55
+BRANCH  48  57
+HETATM   57  O   MOL     1      16.003  -0.428  25.986  1.00  0.00    -0.392 OA
+HETATM   58  H   MOL     1      15.292  -0.279  26.912  1.00  0.00     0.210 HD
+ENDBRANCH  48  57
+BRANCH  49  59
+HETATM   59  O   MOL     1      15.606   2.353  25.656  1.00  0.00    -0.399 OA
+HETATM   60  H   MOL     1      15.722   1.422  26.364  1.00  0.00     0.209 HD
+ENDBRANCH  49  59
+BRANCH  45  61
+HETATM   61  C   MOL     1      15.241   1.275  23.066  1.00  0.00     0.292 C 
+HETATM   62  O   MOL     1      16.073   2.070  23.888  1.00  0.00    -0.188 OA
+HETATM   63  O   MOL     1      14.615   2.543  23.081  1.00  0.00    -0.188 OA
+ENDBRANCH  45  61
+ENDBRANCH   1  35
+TORSDOF 8
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:     -10.3      2.764      5.039
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_33 
+REMARK    2  A    between atoms: O_1  and  C_49 
+REMARK    3  A    between atoms: O_8  and  C_53 
+REMARK    4  A    between atoms: O_12  and  C_56 
+REMARK    5  A    between atoms: O_13  and  C_57 
+REMARK    6  A    between atoms: O_14  and  C_59 
+REMARK    7  A    between atoms: C_52  and  C_55 
+REMARK    8  A    between atoms: C_58  and  C_60 
+ROOT
+HETATM    1  O   MOL     1      11.827  -7.454  22.916  1.00  0.00     0.000 OA
+ENDROOT
+BRANCH   1   2
+HETATM    2  C   MOL     1      11.388  -6.573  23.096  1.00  0.00     0.007 C 
+HETATM    3  C   MOL     1      10.734  -6.457  23.956  1.00  0.00    -0.058 C 
+HETATM    4  C   MOL     1      10.689  -5.385  24.482  1.00  0.00    -0.007 C 
+HETATM    5  C   MOL     1      10.227  -6.857  24.719  1.00  0.00     0.027 C 
+HETATM    6  C   MOL     1      10.824  -7.432  24.160  1.00  0.00    -0.005 C 
+HETATM    7  C   MOL     1      10.513  -4.661  23.570  1.00  0.00    -0.037 A 
+HETATM    8  C   MOL     1       9.642  -5.384  24.972  1.00  0.00     0.006 C 
+HETATM    9  C   MOL     1      10.510  -3.628  24.137  1.00  0.00     0.013 A 
+HETATM   10  C   MOL     1      11.240  -4.732  22.768  1.00  0.00     0.014 C 
+HETATM   11  C   MOL     1      10.021  -4.048  22.436  1.00  0.00     0.081 C 
+HETATM   12  C   MOL     1      10.367  -2.931  23.275  1.00  0.00    -0.024 A 
+HETATM   13  C   MOL     1       9.452  -3.640  24.564  1.00  0.00    -0.033 A 
+HETATM   14  C   MOL     1       9.130  -2.727  24.833  1.00  0.00    -0.030 A 
+HETATM   15  C   MOL     1       9.232  -4.449  25.182  1.00  0.00     0.011 C 
+HETATM   16  C   MOL     1       8.158  -4.070  24.769  1.00  0.00     0.044 C 
+HETATM   17  C   MOL     1       9.331  -1.940  24.247  1.00  0.00    -0.018 A 
+HETATM   18  C   MOL     1       8.543  -1.103  24.145  1.00  0.00    -0.002 C 
+HETATM   19  C   MOL     1       9.969  -2.037  23.483  1.00  0.00    -0.036 C 
+HETATM   20  C   MOL     1       8.429  -2.650  25.602  1.00  0.00     0.041 A 
+HETATM   21  C   MOL     1       8.222  -0.904  25.215  1.00  0.00    -0.059 C 
+HETATM   22  C   MOL     1       9.200  -0.155  23.834  1.00  0.00     0.003 C 
+HETATM   23  C   MOL     1       8.011  -1.723  25.825  1.00  0.00     0.009 C 
+HETATM   24  C   MOL     1       7.824   0.072  25.478  1.00  0.00     0.014 C 
+HETATM   25  C   MOL     1       6.857  -0.987  25.396  1.00  0.00     0.028 C 
+HETATM   26  C   MOL     1       8.083   0.936  24.875  1.00  0.00     0.253 A 
+HETATM   27  C   MOL     1       8.814   0.831  24.078  1.00  0.00     0.003 A 
+HETATM   28  O   MOL     1       8.096   2.377  24.392  1.00  0.00    -0.382 OA
+HETATM   29  C   MOL     1      10.052   1.413  23.895  1.00  0.00     0.044 C 
+HETATM   30  C   MOL     1       8.692   1.795  23.838  1.00  0.00     0.080 A 
+HETATM   31  O   MOL     1       9.202   2.189  23.073  1.00  0.00     0.000 OA
+HETATM   32  C   MOL     1       9.428  -3.091  26.130  1.00  0.00     0.025 C 
+HETATM   33  C   MOL     1      11.681  -5.695  22.529  1.00  0.00    -0.012 C 
+HETATM   34  O   MOL     1      11.005  -3.028  22.510  1.00  0.00     0.000 OA
+ENDBRANCH   1   2
+BRANCH   1  35
+HETATM   35  C   MOL     1      12.810  -7.499  22.740  1.00  0.00    -0.027 A 
+HETATM   36  O   MOL     1      13.450  -7.068  23.381  1.00  0.00     0.000 OA
+HETATM   37  C   MOL     1      14.426  -7.024  23.162  1.00  0.00     0.096 A 
+HETATM   38  C   MOL     1      14.772  -7.499  22.347  1.00  0.00     0.133 A 
+HETATM   39  C   MOL     1      14.121  -7.795  21.641  1.00  0.00     0.055 A 
+HETATM   40  O   MOL     1      14.375  -7.330  20.368  1.00  0.00     0.000 OA
+HETATM   41  C   MOL     1      13.148  -7.885  21.882  1.00  0.00     0.007 A 
+HETATM   42  H   MOL     1      15.070  -8.225  20.682  1.00  0.00     0.000 HD
+HETATM   43  O   MOL     1      13.819  -8.611  20.142  1.00  0.00     0.000 OA
+HETATM   44  C   MOL     1      12.834  -8.567  20.318  1.00  0.00     0.057 A 
+HETATM   45  C   MOL     1      14.152  -8.952  19.262  1.00  0.00     0.071 C 
+HETATM   46  O   MOL     1      12.502  -8.226  21.198  1.00  0.00     0.000 OA
+HETATM   47  C   MOL     1      12.200  -9.042  19.699  1.00  0.00     0.154 A 
+HETATM   48  C   MOL     1      12.529  -9.338  18.797  1.00  0.00     0.211 A 
+HETATM   49  C   MOL     1      13.518  -9.427  18.644  1.00  0.00     0.146 C 
+BRANCH  37  50
+HETATM   50  C   MOL     1      14.985  -5.787  23.409  1.00  0.00     0.297 C 
+HETATM   51  O   MOL     1      15.901  -6.685  24.006  1.00  0.00    -0.188 OA
+HETATM   52  O   MOL     1      14.390  -6.129  24.645  1.00  0.00    -0.188 OA
+ENDBRANCH  37  50
+BRANCH  38  53
+HETATM   53  O   MOL     1      15.836  -8.349  22.565  1.00  0.00    -0.395 OA
+HETATM   54  H   MOL     1      16.159  -7.301  22.139  1.00  0.00     0.210 HD
+ENDBRANCH  38  53
+BRANCH  47  55
+HETATM   55  O   MOL     1      11.303  -9.893  20.311  1.00  0.00    -0.393 OA
+HETATM   56  H   MOL     1      11.172  -8.769  20.635  1.00  0.00     0.210 HD
+ENDBRANCH  47  55
+BRANCH  48  57
+HETATM   57  O   MOL     1      11.803  -8.873  17.721  1.00  0.00    -0.392 OA
+HETATM   58  H   MOL     1      11.797  -8.135  18.637  1.00  0.00     0.210 HD
+ENDBRANCH  48  57
+BRANCH  49  59
+HETATM   59  O   MOL     1      13.939 -10.663  18.200  1.00  0.00    -0.399 OA
+HETATM   60  H   MOL     1      14.313 -10.408  19.286  1.00  0.00     0.209 HD
+ENDBRANCH  49  59
+BRANCH  45  61
+HETATM   61  C   MOL     1      15.050  -8.101  18.650  1.00  0.00     0.292 C 
+HETATM   62  O   MOL     1      14.888  -9.139  17.704  1.00  0.00    -0.188 OA
+HETATM   63  O   MOL     1      15.870  -9.149  19.130  1.00  0.00    -0.188 OA
+ENDBRANCH  45  61
+ENDBRANCH   1  35
+TORSDOF 8
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:     -10.3      9.162     14.881
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_33 
+REMARK    2  A    between atoms: O_1  and  C_49 
+REMARK    3  A    between atoms: O_8  and  C_53 
+REMARK    4  A    between atoms: O_12  and  C_56 
+REMARK    5  A    between atoms: O_13  and  C_57 
+REMARK    6  A    between atoms: O_14  and  C_59 
+REMARK    7  A    between atoms: C_52  and  C_55 
+REMARK    8  A    between atoms: C_58  and  C_60 
+ROOT
+HETATM    1  O   MOL     1      14.803   5.501  19.194  1.00  0.00     0.000 OA
+ENDROOT
+BRANCH   1   2
+HETATM    2  C   MOL     1      15.229   5.870  18.366  1.00  0.00     0.007 C 
+HETATM    3  C   MOL     1      15.785   6.802  18.412  1.00  0.00    -0.058 C 
+HETATM    4  C   MOL     1      16.709   6.936  17.667  1.00  0.00    -0.007 C 
+HETATM    5  C   MOL     1      16.065   7.622  18.912  1.00  0.00     0.027 C 
+HETATM    6  C   MOL     1      15.521   6.918  19.370  1.00  0.00    -0.005 C 
+HETATM    7  C   MOL     1      16.245   6.636  16.627  1.00  0.00    -0.037 A 
+HETATM    8  C   MOL     1      16.784   8.085  17.554  1.00  0.00     0.006 C 
+HETATM    9  C   MOL     1      17.198   6.754  15.944  1.00  0.00     0.013 A 
+HETATM   10  C   MOL     1      15.780   5.657  16.587  1.00  0.00     0.014 C 
+HETATM   11  C   MOL     1      15.445   6.543  15.507  1.00  0.00     0.081 C 
+HETATM   12  C   MOL     1      16.772   6.447  14.957  1.00  0.00    -0.024 A 
+HETATM   13  C   MOL     1      17.210   7.887  15.815  1.00  0.00    -0.033 A 
+HETATM   14  C   MOL     1      17.761   8.184  15.029  1.00  0.00    -0.030 A 
+HETATM   15  C   MOL     1      17.268   8.434  16.700  1.00  0.00     0.011 C 
+HETATM   16  C   MOL     1      16.768   9.191  15.896  1.00  0.00     0.044 C 
+HETATM   17  C   MOL     1      17.713   7.670  14.171  1.00  0.00    -0.018 A 
+HETATM   18  C   MOL     1      17.775   8.244  13.171  1.00  0.00    -0.002 C 
+HETATM   19  C   MOL     1      17.239   6.790  14.142  1.00  0.00    -0.036 C 
+HETATM   20  C   MOL     1      18.209   9.126  15.059  1.00  0.00     0.041 A 
+HETATM   21  C   MOL     1      18.649   8.953  13.321  1.00  0.00    -0.059 C 
+HETATM   22  C   MOL     1      18.174   7.413  12.411  1.00  0.00     0.003 C 
+HETATM   23  C   MOL     1      18.698   9.489  14.215  1.00  0.00     0.009 C 
+HETATM   24  C   MOL     1      19.200   9.309  12.456  1.00  0.00     0.014 C 
+HETATM   25  C   MOL     1      18.328  10.270  13.069  1.00  0.00     0.028 C 
+HETATM   26  C   MOL     1      19.193   8.726  11.540  1.00  0.00     0.253 A 
+HETATM   27  C   MOL     1      18.718   7.749  11.532  1.00  0.00     0.003 A 
+HETATM   28  O   MOL     1      19.480   8.349  10.096  1.00  0.00    -0.382 OA
+HETATM   29  C   MOL     1      19.233   6.488  11.311  1.00  0.00     0.044 C 
+HETATM   30  C   MOL     1      18.937   7.649  10.561  1.00  0.00     0.080 A 
+HETATM   31  O   MOL     1      18.654   6.827  10.066  1.00  0.00     0.000 OA
+HETATM   32  C   MOL     1      18.751   8.492  15.939  1.00  0.00     0.025 C 
+HETATM   33  C   MOL     1      15.268   5.271  17.462  1.00  0.00    -0.012 C 
+HETATM   34  O   MOL     1      16.298   5.566  14.929  1.00  0.00     0.000 OA
+ENDBRANCH   1   2
+BRANCH   1  35
+HETATM   35  C   MOL     1      13.972   4.947  19.126  1.00  0.00    -0.027 A 
+HETATM   36  O   MOL     1      13.115   5.371  18.828  1.00  0.00     0.000 OA
+HETATM   37  C   MOL     1      12.261   4.849  18.853  1.00  0.00     0.096 A 
+HETATM   38  C   MOL     1      12.286   3.871  19.083  1.00  0.00     0.133 A 
+HETATM   39  C   MOL     1      13.110   3.493  19.519  1.00  0.00     0.055 A 
+HETATM   40  O   MOL     1      12.900   2.844  20.717  1.00  0.00     0.000 OA
+HETATM   41  C   MOL     1      13.975   4.000  19.448  1.00  0.00     0.007 A 
+HETATM   42  H   MOL     1      12.602   2.197  19.781  1.00  0.00     0.000 HD
+HETATM   43  O   MOL     1      13.970   2.123  20.138  1.00  0.00     0.000 OA
+HETATM   44  C   MOL     1      14.802   2.677  20.206  1.00  0.00     0.057 A 
+HETATM   45  C   MOL     1      13.962   1.192  20.507  1.00  0.00     0.071 C 
+HETATM   46  O   MOL     1      14.809   3.608  19.838  1.00  0.00     0.000 OA
+HETATM   47  C   MOL     1      15.670   2.237  20.458  1.00  0.00     0.154 A 
+HETATM   48  C   MOL     1      15.650   1.321  20.872  1.00  0.00     0.211 A 
+HETATM   49  C   MOL     1      14.830   0.752  20.758  1.00  0.00     0.146 C 
+BRANCH  37  50
+HETATM   50  C   MOL     1      11.203   5.555  19.386  1.00  0.00     0.297 C 
+HETATM   51  O   MOL     1      10.759   5.238  18.081  1.00  0.00    -0.188 OA
+HETATM   52  O   MOL     1      11.843   6.504  18.555  1.00  0.00    -0.188 OA
+ENDBRANCH  37  50
+BRANCH  38  53
+HETATM   53  O   MOL     1      11.657   3.035  18.184  1.00  0.00    -0.395 OA
+HETATM   54  H   MOL     1      10.944   3.419  19.038  1.00  0.00     0.210 HD
+ENDBRANCH  38  53
+BRANCH  47  55
+HETATM   55  O   MOL     1      16.725   2.477  19.602  1.00  0.00    -0.393 OA
+HETATM   56  H   MOL     1      16.831   1.468  20.197  1.00  0.00     0.210 HD
+ENDBRANCH  47  55
+BRANCH  48  57
+HETATM   57  O   MOL     1      16.283   1.210  22.092  1.00  0.00    -0.392 OA
+HETATM   58  H   MOL     1      16.108   0.173  21.565  1.00  0.00     0.210 HD
+ENDBRANCH  48  57
+BRANCH  49  59
+HETATM   59  O   MOL     1      15.046  -0.492  20.203  1.00  0.00    -0.399 OA
+HETATM   60  H   MOL     1      13.945  -0.340  20.587  1.00  0.00     0.209 HD
+ENDBRANCH  49  59
+BRANCH  45  61
+HETATM   61  C   MOL     1      12.906   0.951  21.361  1.00  0.00     0.292 C 
+HETATM   62  O   MOL     1      13.695  -0.217  21.481  1.00  0.00    -0.188 OA
+HETATM   63  O   MOL     1      12.580   0.186  20.218  1.00  0.00    -0.188 OA
+ENDBRANCH  45  61
+ENDBRANCH   1  35
+TORSDOF 8
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:     -10.2      8.042     12.638
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_33 
+REMARK    2  A    between atoms: O_1  and  C_49 
+REMARK    3  A    between atoms: O_8  and  C_53 
+REMARK    4  A    between atoms: O_12  and  C_56 
+REMARK    5  A    between atoms: O_13  and  C_57 
+REMARK    6  A    between atoms: O_14  and  C_59 
+REMARK    7  A    between atoms: C_52  and  C_55 
+REMARK    8  A    between atoms: C_58  and  C_60 
+ROOT
+HETATM    1  O   MOL     1      12.246   3.455  19.106  1.00  0.00     0.000 OA
+ENDROOT
+BRANCH   1   2
+HETATM    2  C   MOL     1      13.140   3.883  18.966  1.00  0.00     0.007 C 
+HETATM    3  C   MOL     1      13.230   4.966  18.975  1.00  0.00    -0.058 C 
+HETATM    4  C   MOL     1      14.253   5.436  19.375  1.00  0.00    -0.007 C 
+HETATM    5  C   MOL     1      12.806   5.872  18.983  1.00  0.00     0.027 C 
+HETATM    6  C   MOL     1      12.237   5.053  19.057  1.00  0.00    -0.005 C 
+HETATM    7  C   MOL     1      15.065   4.833  18.771  1.00  0.00    -0.037 A 
+HETATM    8  C   MOL     1      14.293   6.459  18.837  1.00  0.00     0.006 C 
+HETATM    9  C   MOL     1      16.042   5.309  19.225  1.00  0.00     0.013 A 
+HETATM   10  C   MOL     1      15.007   3.752  18.860  1.00  0.00     0.014 C 
+HETATM   11  C   MOL     1      15.809   4.240  17.772  1.00  0.00     0.081 C 
+HETATM   12  C   MOL     1      16.820   4.725  18.674  1.00  0.00    -0.024 A 
+HETATM   13  C   MOL     1      16.075   6.288  18.640  1.00  0.00    -0.033 A 
+HETATM   14  C   MOL     1      16.983   6.718  18.649  1.00  0.00    -0.030 A 
+HETATM   15  C   MOL     1      15.234   6.895  18.743  1.00  0.00     0.011 C 
+HETATM   16  C   MOL     1      15.729   7.223  17.686  1.00  0.00     0.044 C 
+HETATM   17  C   MOL     1      17.799   6.147  18.547  1.00  0.00    -0.018 A 
+HETATM   18  C   MOL     1      18.700   6.561  17.954  1.00  0.00    -0.002 C 
+HETATM   19  C   MOL     1      17.720   5.151  18.584  1.00  0.00    -0.036 C 
+HETATM   20  C   MOL     1      17.046   7.755  18.561  1.00  0.00     0.041 A 
+HETATM   21  C   MOL     1      18.830   7.612  18.363  1.00  0.00    -0.059 C 
+HETATM   22  C   MOL     1      19.619   5.938  18.397  1.00  0.00     0.003 C 
+HETATM   23  C   MOL     1      17.980   8.207  18.467  1.00  0.00     0.009 C 
+HETATM   24  C   MOL     1      19.808   8.084  18.314  1.00  0.00     0.014 C 
+HETATM   25  C   MOL     1      18.837   8.578  17.378  1.00  0.00     0.028 C 
+HETATM   26  C   MOL     1      20.698   7.466  18.257  1.00  0.00     0.253 A 
+HETATM   27  C   MOL     1      20.607   6.387  18.349  1.00  0.00     0.003 A 
+HETATM   28  O   MOL     1      22.170   7.106  18.142  1.00  0.00    -0.382 OA
+HETATM   29  C   MOL     1      21.105   5.508  19.287  1.00  0.00     0.044 C 
+HETATM   30  C   MOL     1      21.594   6.292  18.217  1.00  0.00     0.080 A 
+HETATM   31  O   MOL     1      22.012   5.383  18.209  1.00  0.00     0.000 OA
+HETATM   32  C   MOL     1      16.487   7.563  19.619  1.00  0.00     0.025 C 
+HETATM   33  C   MOL     1      14.038   3.274  18.958  1.00  0.00    -0.012 C 
+HETATM   34  O   MOL     1      16.740   3.727  18.712  1.00  0.00     0.000 OA
+ENDBRANCH   1   2
+BRANCH   1  35
+HETATM   35  C   MOL     1      12.154   2.678  19.730  1.00  0.00    -0.027 A 
+HETATM   36  O   MOL     1      12.666   2.669  20.591  1.00  0.00     0.000 OA
+HETATM   37  C   MOL     1      12.656   1.855  21.173  1.00  0.00     0.096 A 
+HETATM   38  C   MOL     1      12.052   1.087  20.938  1.00  0.00     0.133 A 
+HETATM   39  C   MOL     1      11.662   1.038  20.013  1.00  0.00     0.055 A 
+HETATM   40  O   MOL     1      11.917  -0.129  19.324  1.00  0.00     0.000 OA
+HETATM   41  C   MOL     1      11.631   1.872  19.452  1.00  0.00     0.007 A 
+HETATM   42  H   MOL     1      11.067  -0.242  20.129  1.00  0.00     0.000 HD
+HETATM   43  O   MOL     1      10.628   0.241  18.873  1.00  0.00     0.000 OA
+HETATM   44  C   MOL     1      10.720   1.018  18.248  1.00  0.00     0.057 A 
+HETATM   45  C   MOL     1      10.146  -0.584  18.573  1.00  0.00     0.071 C 
+HETATM   46  O   MOL     1      11.201   1.843  18.549  1.00  0.00     0.000 OA
+HETATM   47  C   MOL     1      10.167   1.046  17.409  1.00  0.00     0.154 A 
+HETATM   48  C   MOL     1       9.726   0.201  17.088  1.00  0.00     0.211 A 
+HETATM   49  C   MOL     1       9.593  -0.556  17.734  1.00  0.00     0.146 C 
+BRANCH  37  50
+HETATM   50  C   MOL     1      13.904   1.504  21.644  1.00  0.00     0.297 C 
+HETATM   51  O   MOL     1      13.069   1.334  22.773  1.00  0.00    -0.188 OA
+HETATM   52  O   MOL     1      13.720   2.812  22.149  1.00  0.00    -0.188 OA
+ENDBRANCH  37  50
+BRANCH  38  53
+HETATM   53  O   MOL     1      11.224   0.652  21.952  1.00  0.00    -0.395 OA
+HETATM   54  H   MOL     1      12.194  -0.002  21.833  1.00  0.00     0.210 HD
+ENDBRANCH  38  53
+BRANCH  47  55
+HETATM   55  O   MOL     1       9.441   2.203  17.217  1.00  0.00    -0.393 OA
+HETATM   56  H   MOL     1       9.011   1.281  16.624  1.00  0.00     0.210 HD
+ENDBRANCH  47  55
+BRANCH  48  57
+HETATM   57  O   MOL     1      10.032  -0.170  15.795  1.00  0.00    -0.392 OA
+HETATM   58  H   MOL     1       9.170  -0.814  16.272  1.00  0.00     0.210 HD
+ENDBRANCH  48  57
+BRANCH  49  59
+HETATM   59  O   MOL     1       8.294  -1.001  17.867  1.00  0.00    -0.399 OA
+HETATM   60  H   MOL     1       8.832  -1.418  16.908  1.00  0.00     0.209 HD
+ENDBRANCH  49  59
+BRANCH  45  61
+HETATM   61  C   MOL     1      10.872  -1.741  18.767  1.00  0.00     0.292 C 
+HETATM   62  O   MOL     1       9.709  -2.193  18.101  1.00  0.00    -0.188 OA
+HETATM   63  O   MOL     1       9.887  -1.802  19.779  1.00  0.00    -0.188 OA
+ENDBRANCH  45  61
+ENDBRANCH   1  35
+TORSDOF 8
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:     -10.0      3.514      9.166
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_33 
+REMARK    2  A    between atoms: O_1  and  C_49 
+REMARK    3  A    between atoms: O_8  and  C_53 
+REMARK    4  A    between atoms: O_12  and  C_56 
+REMARK    5  A    between atoms: O_13  and  C_57 
+REMARK    6  A    between atoms: O_14  and  C_59 
+REMARK    7  A    between atoms: C_52  and  C_55 
+REMARK    8  A    between atoms: C_58  and  C_60 
+ROOT
+HETATM    1  O   MOL     1      10.715  -3.057  24.714  1.00  0.00     0.000 OA
+ENDROOT
+BRANCH   1   2
+HETATM    2  C   MOL     1      10.959  -3.889  24.212  1.00  0.00     0.007 C 
+HETATM    3  C   MOL     1      10.782  -4.864  24.659  1.00  0.00    -0.058 C 
+HETATM    4  C   MOL     1      10.525  -5.773  23.927  1.00  0.00    -0.007 C 
+HETATM    5  C   MOL     1      10.531  -5.423  25.448  1.00  0.00     0.027 C 
+HETATM    6  C   MOL     1      10.485  -4.426  25.507  1.00  0.00    -0.005 C 
+HETATM    7  C   MOL     1      11.377  -5.698  23.117  1.00  0.00    -0.037 A 
+HETATM    8  C   MOL     1      10.874  -6.695  24.531  1.00  0.00     0.006 C 
+HETATM    9  C   MOL     1      11.057  -6.587  22.413  1.00  0.00     0.013 A 
+HETATM   10  C   MOL     1      11.466  -4.738  22.619  1.00  0.00     0.014 C 
+HETATM   11  C   MOL     1      12.594  -5.616  22.473  1.00  0.00     0.081 C 
+HETATM   12  C   MOL     1      11.848  -6.508  21.626  1.00  0.00    -0.024 A 
+HETATM   13  C   MOL     1      11.459  -7.469  23.014  1.00  0.00    -0.033 A 
+HETATM   14  C   MOL     1      11.562  -8.302  22.461  1.00  0.00    -0.030 A 
+HETATM   15  C   MOL     1      11.082  -7.555  23.982  1.00  0.00     0.011 C 
+HETATM   16  C   MOL     1      12.145  -8.138  24.006  1.00  0.00     0.044 C 
+HETATM   17  C   MOL     1      11.926  -8.235  21.531  1.00  0.00    -0.018 A 
+HETATM   18  C   MOL     1      12.609  -9.078  21.136  1.00  0.00    -0.002 C 
+HETATM   19  C   MOL     1      12.045  -7.338  21.105  1.00  0.00    -0.036 C 
+HETATM   20  C   MOL     1      11.480  -9.229  22.934  1.00  0.00     0.041 A 
+HETATM   21  C   MOL     1      12.061 -10.028  21.429  1.00  0.00    -0.059 C 
+HETATM   22  C   MOL     1      12.478  -8.994  19.952  1.00  0.00     0.003 C 
+HETATM   23  C   MOL     1      11.684 -10.098  22.398  1.00  0.00     0.009 C 
+HETATM   24  C   MOL     1      12.226 -10.935  20.854  1.00  0.00     0.014 C 
+HETATM   25  C   MOL     1      12.844 -10.905  22.151  1.00  0.00     0.028 C 
+HETATM   26  C   MOL     1      12.570 -10.863  19.828  1.00  0.00     0.253 A 
+HETATM   27  C   MOL     1      12.650  -9.887  19.358  1.00  0.00     0.003 A 
+HETATM   28  O   MOL     1      13.044 -11.314  18.456  1.00  0.00    -0.382 OA
+HETATM   29  C   MOL     1      11.999  -9.346  18.268  1.00  0.00     0.044 C 
+HETATM   30  C   MOL     1      12.995 -10.317  18.522  1.00  0.00     0.080 A 
+HETATM   31  O   MOL     1      13.245  -9.752  17.736  1.00  0.00     0.000 OA
+HETATM   32  C   MOL     1      10.379  -8.730  23.028  1.00  0.00     0.025 C 
+HETATM   33  C   MOL     1      11.256  -3.827  23.170  1.00  0.00    -0.012 C 
+HETATM   34  O   MOL     1      11.967  -5.610  21.200  1.00  0.00     0.000 OA
+ENDBRANCH   1   2
+BRANCH   1  35
+HETATM   35  C   MOL     1      10.927  -2.159  24.328  1.00  0.00    -0.027 A 
+HETATM   36  O   MOL     1      11.859  -1.956  24.021  1.00  0.00     0.000 OA
+HETATM   37  C   MOL     1      12.101  -1.030  23.727  1.00  0.00     0.096 A 
+HETATM   38  C   MOL     1      11.381  -0.333  23.648  1.00  0.00     0.133 A 
+HETATM   39  C   MOL     1      10.495  -0.495  24.093  1.00  0.00     0.055 A 
+HETATM   40  O   MOL     1      10.089   0.483  24.977  1.00  0.00     0.000 OA
+HETATM   41  C   MOL     1      10.237  -1.435  24.342  1.00  0.00     0.007 A 
+HETATM   42  H   MOL     1       9.931   0.782  23.850  1.00  0.00     0.000 HD
+HETATM   43  O   MOL     1       8.874   0.027  24.414  1.00  0.00     0.000 OA
+HETATM   44  C   MOL     1       8.662  -0.872  24.800  1.00  0.00     0.057 A 
+HETATM   45  C   MOL     1       8.199   0.765  24.473  1.00  0.00     0.071 C 
+HETATM   46  O   MOL     1       9.337  -1.609  24.740  1.00  0.00     0.000 OA
+HETATM   47  C   MOL     1       7.715  -1.087  25.062  1.00  0.00     0.154 A 
+HETATM   48  C   MOL     1       7.056  -0.336  25.167  1.00  0.00     0.211 A 
+HETATM   49  C   MOL     1       7.253   0.550  24.735  1.00  0.00     0.146 C 
+BRANCH  37  50
+HETATM   50  C   MOL     1      13.300  -0.588  24.244  1.00  0.00     0.297 C 
+HETATM   51  O   MOL     1      13.403  -0.277  22.868  1.00  0.00    -0.188 OA
+HETATM   52  O   MOL     1      13.643  -1.815  23.628  1.00  0.00    -0.188 OA
+ENDBRANCH  37  50
+BRANCH  38  53
+HETATM   53  O   MOL     1      11.325   0.326  22.438  1.00  0.00    -0.395 OA
+HETATM   54  H   MOL     1      11.627  -0.807  22.336  1.00  0.00     0.210 HD
+ENDBRANCH  38  53
+BRANCH  47  55
+HETATM   55  O   MOL     1       7.205  -2.253  24.531  1.00  0.00    -0.393 OA
+HETATM   56  H   MOL     1       7.778  -2.417  25.546  1.00  0.00     0.210 HD
+ENDBRANCH  47  55
+BRANCH  48  57
+HETATM   57  O   MOL     1       6.423  -0.271  26.390  1.00  0.00    -0.392 OA
+HETATM   58  H   MOL     1       6.695   0.787  25.952  1.00  0.00     0.210 HD
+ENDBRANCH  48  57
+BRANCH  49  59
+HETATM   59  O   MOL     1       6.280   1.020  23.878  1.00  0.00    -0.399 OA
+HETATM   60  H   MOL     1       5.910   0.137  24.560  1.00  0.00     0.209 HD
+ENDBRANCH  49  59
+BRANCH  45  61
+HETATM   61  C   MOL     1       8.710   1.932  25.004  1.00  0.00     0.292 C 
+HETATM   62  O   MOL     1       7.345   2.238  24.797  1.00  0.00    -0.188 OA
+HETATM   63  O   MOL     1       8.617   2.216  23.621  1.00  0.00    -0.188 OA
+ENDBRANCH  45  61
+ENDBRANCH   1  35
+TORSDOF 8
+ENDMDL

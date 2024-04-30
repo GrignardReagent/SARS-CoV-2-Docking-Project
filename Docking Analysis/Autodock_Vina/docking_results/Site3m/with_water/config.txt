@@ -1,0 +1,15 @@
+receptor = Site3m_with_water.pdbqt
+
+center_x = -46.189
+center_y = -0.586
+center_z = 12.875
+
+size_x = 34
+size_y = 24
+size_z = 26
+
+energy_range = 4
+
+exhaustiveness = 8
+
+num_modes = 10

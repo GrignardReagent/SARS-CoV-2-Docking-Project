@@ -1,0 +1,18 @@
+### Make folders for my ligands with cmd
+
+cd 
+mkdir docked_ligands
+cd docked_ligands
+# This makes folders for the ligands
+mkdir Forsythoside_E Lopinavir DAR Disulfiram Diammonium Baicalein Baicalin Wogonin Wogonoside VTRRT NHC
+# This for loop makes folders within these ligand folders that correspond to different protein sites and with water/without water
+for dir in */
+do
+	printf "Start making $dir folder."
+	printf "\n"
+	cd $dir
+	mkdir -p Site1/With_Water Site1/Without_Water Site2/With_Water Site2/Without_Water Site3d/With_Water Site3d/Without_Water Site3m/With_Water Site3m/Without_Water
+	printf "Finished making $dir folder."
+	printf "\n\n"
+	cd ..
+done

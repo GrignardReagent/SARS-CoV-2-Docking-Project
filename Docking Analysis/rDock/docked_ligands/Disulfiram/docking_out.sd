@@ -1,0 +1,1606 @@
+Disulfiram.pdb
+  RxDock  02242101183D
+librxdock.so/0.1.0
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+  -49.8607   -4.5360   15.1610 S   0  0  0  0  0  0
+  -51.1198   -4.6583   16.7895 S   0  0  0  0  0  0
+  -47.8131   -4.1743   17.2900 S   0  0  0  0  0  0
+  -53.2648   -4.8684   14.7374 S   0  0  0  0  0  0
+  -48.0431   -2.5212   15.0932 N   0  0  0  0  0  0
+  -52.8717   -6.7327   16.7330 N   0  0  0  0  0  0
+  -46.9104   -1.6719   15.4777 C   0  0  0  0  0  0
+  -48.6951   -2.0974   13.8518 C   0  0  0  0  0  0
+  -53.9780   -7.5657   16.2539 C   0  0  0  0  0  0
+  -52.1843   -7.2900   17.9022 C   0  0  0  0  0  0
+  -45.5918   -2.2747   15.0381 C   0  0  0  0  0  0
+  -49.8398   -1.1434   14.1229 C   0  0  0  0  0  0
+  -55.2431   -6.7546   16.0675 C   0  0  0  0  0  0
+  -50.8179   -7.8301   17.5363 C   0  0  0  0  0  0
+  -48.4902   -3.6309   15.8385 C   0  0  0  0  0  0
+  -52.5096   -5.5259   16.0998 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 15  1  0  0  0
+  2 16  1  0  0  0
+  3 15  2  0  0  0
+  4 16  2  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  5 15  1  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  6 16  1  0  0  0
+  7 11  1  0  0  0
+  8 12  1  0  0  0
+  9 13  1  0  0  0
+ 10 14  1  0  0  0
+M  END
+>  <CHROM.0>
+-49.01564762,-62.58032395,-170.42493089
+
+>  <CHROM.1>
+178.55406058,50.71357452,-56.16014771,-97.46941842,-91.73472093,129.88845968
+107.29112659,-50.46556261,-4.57368370,15.89994343,0.55118555,-0.31765707
+-0.71527163
+
+>  <HEADER>
+                                                                          
+
+>  <MASTER>
+        0    0    0    0    0    0    0    0   36    0   36    0          
+
+>  <Name>
+Disulfiram.pdb
+
+>  <RI>
+-9.61359e+08
+
+>  <Rbt.Current_Directory>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/ligands/prepped_ligands/Disulfiram
+
+>  <Rbt.Executable>
+rbdock/0.1.0
+
+>  <Rbt.Library>
+librxdock.so/0.1.0
+
+>  <Rbt.Parameter_File>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+def.prm
+
+>  <SCORE>
+-6.45529
+
+>  <SCORE.INTER>
+-5.64362
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.185009
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+7
+
+>  <SCORE.INTER.VDW>
+-17.4146
+
+>  <SCORE.INTER.norm>
+-0.352726
+
+>  <SCORE.INTRA>
+-0.0286729
+
+>  <SCORE.INTRA.DIHEDRAL>
+-5.80265
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+20.6363
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+2.87265
+
+>  <SCORE.INTRA.VDW.0>
+-2.69438
+
+>  <SCORE.INTRA.norm>
+-0.00179205
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-0.782997
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+0.528922
+
+>  <SCORE.SYSTEM.POLAR>
+-0.0176596
+
+>  <SCORE.SYSTEM.VDW>
+-0.987415
+
+>  <SCORE.SYSTEM.norm>
+-0.0489373
+
+>  <SCORE.heavy>
+16
+
+>  <SCORE.norm>
+-0.403455
+
+>  <TITLE>
+    Disulfiram                                                            
+
+$$$$
+Disulfiram.pdb
+  RxDock  02242101183D
+librxdock.so/0.1.0
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+  -51.5542   -4.7420   14.8059 S   0  0  0  0  0  0
+  -52.0121   -2.7333   14.7189 S   0  0  0  0  0  0
+  -54.0351   -4.8215   16.4475 S   0  0  0  0  0  0
+  -52.0802   -2.3299   17.6665 S   0  0  0  0  0  0
+  -51.6505   -5.9719   17.2237 N   0  0  0  0  0  0
+  -49.9759   -1.5428   16.0650 N   0  0  0  0  0  0
+  -52.1861   -6.4886   18.4879 C   0  0  0  0  0  0
+  -50.2317   -6.2760   17.0233 C   0  0  0  0  0  0
+  -49.2192   -1.0299   17.2102 C   0  0  0  0  0  0
+  -49.2700   -1.4017   14.7875 C   0  0  0  0  0  0
+  -52.1921   -5.4223   19.5641 C   0  0  0  0  0  0
+  -49.3553   -5.0890   17.3649 C   0  0  0  0  0  0
+  -49.7371    0.3210   17.6575 C   0  0  0  0  0  0
+  -48.5665   -2.6849   14.3985 C   0  0  0  0  0  0
+  -52.4034   -5.2365   16.2860 C   0  0  0  0  0  0
+  -51.2499   -2.1303   16.2073 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 15  1  0  0  0
+  2 16  1  0  0  0
+  3 15  2  0  0  0
+  4 16  2  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  5 15  1  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  6 16  1  0  0  0
+  7 11  1  0  0  0
+  8 12  1  0  0  0
+  9 13  1  0  0  0
+ 10 14  1  0  0  0
+M  END
+>  <CHROM.0>
+-58.99137751,-64.13679845,30.27231590
+
+>  <CHROM.1>
+62.83985500,50.97703846,-80.88957597,96.82959722,-99.90839527,102.87063300
+97.51353262,-51.30692677,-3.60648343,16.46055169,2.84123988,1.01118505,1.62862955
+
+>  <HEADER>
+                                                                          
+
+>  <MASTER>
+        0    0    0    0    0    0    0    0   36    0   36    0          
+
+>  <Name>
+Disulfiram.pdb
+
+>  <RI>
+-9.61359e+08
+
+>  <Rbt.Current_Directory>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/ligands/prepped_ligands/Disulfiram
+
+>  <Rbt.Executable>
+rbdock/0.1.0
+
+>  <Rbt.Library>
+librxdock.so/0.1.0
+
+>  <Rbt.Parameter_File>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+def.prm
+
+>  <SCORE>
+-9.14338
+
+>  <SCORE.INTER>
+-5.72267
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.6969
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+7
+
+>  <SCORE.INTER.VDW>
+-15.7532
+
+>  <SCORE.INTER.norm>
+-0.357667
+
+>  <SCORE.INTRA>
+-3.41301
+
+>  <SCORE.INTRA.DIHEDRAL>
+-4.6062
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+20.6363
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+-1.10991
+
+>  <SCORE.INTRA.VDW.0>
+-2.69438
+
+>  <SCORE.INTRA.norm>
+-0.213313
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-0.00769951
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+1.87589
+
+>  <SCORE.SYSTEM.VDW>
+-0.945643
+
+>  <SCORE.SYSTEM.norm>
+-0.00048122
+
+>  <SCORE.heavy>
+16
+
+>  <SCORE.norm>
+-0.571461
+
+>  <TITLE>
+    Disulfiram                                                            
+
+$$$$
+Disulfiram.pdb
+  RxDock  02242101183D
+librxdock.so/0.1.0
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+  -50.8268   -2.8149   18.3137 S   0  0  0  0  0  0
+  -49.0211   -3.2279   17.4076 S   0  0  0  0  0  0
+  -53.0229   -4.4214   17.1086 S   0  0  0  0  0  0
+  -48.1374   -1.0637   19.2489 S   0  0  0  0  0  0
+  -51.1482   -5.4566   18.8482 N   0  0  0  0  0  0
+  -47.4438   -1.1776   16.5809 N   0  0  0  0  0  0
+  -51.6969   -6.8163   18.8020 C   0  0  0  0  0  0
+  -49.9894   -5.3248   19.7345 C   0  0  0  0  0  0
+  -46.6440    0.0466   16.6759 C   0  0  0  0  0  0
+  -47.4365   -1.7782   15.2432 C   0  0  0  0  0  0
+  -51.0389   -7.6426   17.7160 C   0  0  0  0  0  0
+  -50.3984   -4.8701   21.1200 C   0  0  0  0  0  0
+  -45.3189   -0.2081   17.3632 C   0  0  0  0  0  0
+  -46.2633   -2.7186   15.0645 C   0  0  0  0  0  0
+  -51.6779   -4.3637   18.1326 C   0  0  0  0  0  0
+  -48.1280   -1.7171   17.6896 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 15  1  0  0  0
+  2 16  1  0  0  0
+  3 15  2  0  0  0
+  4 16  2  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  5 15  1  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  6 16  1  0  0  0
+  7 11  1  0  0  0
+  8 12  1  0  0  0
+  9 13  1  0  0  0
+ 10 14  1  0  0  0
+M  END
+>  <CHROM.0>
+-62.34364409,-64.81744441,174.37107817
+
+>  <CHROM.1>
+-176.19059474,-112.38791822,47.64941263,-89.56802437,-94.02159461,-103.19123300
+87.16318605,-49.48044369,-3.24517008,17.86396504,-3.04710274,-0.76930925
+-1.75536083
+
+>  <HEADER>
+                                                                          
+
+>  <MASTER>
+        0    0    0    0    0    0    0    0   36    0   36    0          
+
+>  <Name>
+Disulfiram.pdb
+
+>  <RI>
+-9.61359e+08
+
+>  <Rbt.Current_Directory>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/ligands/prepped_ligands/Disulfiram
+
+>  <Rbt.Executable>
+rbdock/0.1.0
+
+>  <Rbt.Library>
+librxdock.so/0.1.0
+
+>  <Rbt.Parameter_File>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+def.prm
+
+>  <SCORE>
+-2.176
+
+>  <SCORE.INTER>
+0.139357
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+0
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+7
+
+>  <SCORE.INTER.VDW>
+-12.2606
+
+>  <SCORE.INTER.norm>
+0.00870984
+
+>  <SCORE.INTRA>
+-1.27978
+
+>  <SCORE.INTRA.DIHEDRAL>
+-5.32045
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+20.6363
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.38044
+
+>  <SCORE.INTRA.VDW.0>
+-2.69438
+
+>  <SCORE.INTRA.norm>
+-0.0799864
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-1.03558
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+0.211518
+
+>  <SCORE.SYSTEM.VDW>
+-1.14134
+
+>  <SCORE.SYSTEM.norm>
+-0.0647237
+
+>  <SCORE.heavy>
+16
+
+>  <SCORE.norm>
+-0.136
+
+>  <TITLE>
+    Disulfiram                                                            
+
+$$$$
+Disulfiram.pdb
+  RxDock  02242101183D
+librxdock.so/0.1.0
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+  -49.1735   -3.4453   18.5906 S   0  0  0  0  0  0
+  -48.5371   -2.7381   16.7611 S   0  0  0  0  0  0
+  -48.5957   -5.8106   16.8796 S   0  0  0  0  0  0
+  -49.8037   -0.0534   16.9702 S   0  0  0  0  0  0
+  -50.0818   -5.9293   19.2011 N   0  0  0  0  0  0
+  -47.1242   -0.5189   17.4351 N   0  0  0  0  0  0
+  -50.3053   -7.3765   19.1126 C   0  0  0  0  0  0
+  -50.7201   -5.3103   20.3652 C   0  0  0  0  0  0
+  -46.8744    0.8893   17.7541 C   0  0  0  0  0  0
+  -45.9304   -1.3634   17.5437 C   0  0  0  0  0  0
+  -51.4187   -7.7066   18.1396 C   0  0  0  0  0  0
+  -52.0769   -4.7357   20.0150 C   0  0  0  0  0  0
+  -47.2410    1.2069   19.1887 C   0  0  0  0  0  0
+  -45.3043   -1.6148   16.1881 C   0  0  0  0  0  0
+  -49.3438   -5.1827   18.2604 C   0  0  0  0  0  0
+  -48.4035   -0.9946   17.0810 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 15  1  0  0  0
+  2 16  1  0  0  0
+  3 15  2  0  0  0
+  4 16  2  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  5 15  1  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  6 16  1  0  0  0
+  7 11  1  0  0  0
+  8 12  1  0  0  0
+  9 13  1  0  0  0
+ 10 14  1  0  0  0
+M  END
+>  <CHROM.0>
+173.63589881,-179.89907539,-177.54287528
+
+>  <CHROM.1>
+178.72916973,16.49910941,-83.29202331,99.20733779,-95.22108250,-96.83765404
+-99.31248329,-48.86358878,-3.13149440,17.90976237,2.12177434,-0.58093811
+-3.02861624
+
+>  <HEADER>
+                                                                          
+
+>  <MASTER>
+        0    0    0    0    0    0    0    0   36    0   36    0          
+
+>  <Name>
+Disulfiram.pdb
+
+>  <RI>
+-9.61359e+08
+
+>  <Rbt.Current_Directory>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/ligands/prepped_ligands/Disulfiram
+
+>  <Rbt.Executable>
+rbdock/0.1.0
+
+>  <Rbt.Library>
+librxdock.so/0.1.0
+
+>  <Rbt.Parameter_File>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+def.prm
+
+>  <SCORE>
+-5.36834
+
+>  <SCORE.INTER>
+-2.8411
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.690674
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+7
+
+>  <SCORE.INTER.VDW>
+-12.8928
+
+>  <SCORE.INTER.norm>
+-0.177569
+
+>  <SCORE.INTRA>
+-1.52541
+
+>  <SCORE.INTRA.DIHEDRAL>
+-6.67828
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+20.6363
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.81373
+
+>  <SCORE.INTRA.VDW.0>
+-2.69438
+
+>  <SCORE.INTRA.norm>
+-0.0953379
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-1.00184
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+0.116754
+
+>  <SCORE.SYSTEM.POLAR>
+-0.00758731
+
+>  <SCORE.SYSTEM.VDW>
+-1.03442
+
+>  <SCORE.SYSTEM.norm>
+-0.0626151
+
+>  <SCORE.heavy>
+16
+
+>  <SCORE.norm>
+-0.335522
+
+>  <TITLE>
+    Disulfiram                                                            
+
+$$$$
+Disulfiram.pdb
+  RxDock  02242101183D
+librxdock.so/0.1.0
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+  -47.7376   -2.2537   15.5018 S   0  0  0  0  0  0
+  -46.9442   -0.3561   15.6502 S   0  0  0  0  0  0
+  -50.0714   -0.5463   16.2047 S   0  0  0  0  0  0
+  -44.3014   -1.5507   14.9837 S   0  0  0  0  0  0
+  -50.2426   -2.7851   14.6016 N   0  0  0  0  0  0
+  -44.8289   -0.2312   17.3487 N   0  0  0  0  0  0
+  -51.6842   -2.6427   14.3703 C   0  0  0  0  0  0
+  -49.6587   -3.9559   13.9426 C   0  0  0  0  0  0
+  -43.4584   -0.4240   17.8304 C   0  0  0  0  0  0
+  -45.6773    0.5151   18.2832 C   0  0  0  0  0  0
+  -52.4883   -3.4356   15.3802 C   0  0  0  0  0  0
+  -49.1354   -3.6137   12.5631 C   0  0  0  0  0  0
+  -43.2332   -1.8426   18.3100 C   0  0  0  0  0  0
+  -46.4934   -0.4158   19.1551 C   0  0  0  0  0  0
+  -49.4761   -1.9046   15.3915 C   0  0  0  0  0  0
+  -45.2594   -0.7090   16.0938 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 15  1  0  0  0
+  2 16  1  0  0  0
+  3 15  2  0  0  0
+  4 16  2  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  5 15  1  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  6 16  1  0  0  0
+  7 11  1  0  0  0
+  8 12  1  0  0  0
+  9 13  1  0  0  0
+ 10 14  1  0  0  0
+M  END
+>  <CHROM.0>
+66.99713246,178.78819967,-176.46926074
+
+>  <CHROM.1>
+168.87465403,-31.95762813,63.77433393,86.47466797,91.87002178,104.58524965
+-95.91812018,-47.48155943,-1.53700695,15.88895947,-2.65544884,0.03028066
+0.96966413
+
+>  <HEADER>
+                                                                          
+
+>  <MASTER>
+        0    0    0    0    0    0    0    0   36    0   36    0          
+
+>  <Name>
+Disulfiram.pdb
+
+>  <RI>
+-9.61359e+08
+
+>  <Rbt.Current_Directory>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/ligands/prepped_ligands/Disulfiram
+
+>  <Rbt.Executable>
+rbdock/0.1.0
+
+>  <Rbt.Library>
+librxdock.so/0.1.0
+
+>  <Rbt.Parameter_File>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+def.prm
+
+>  <SCORE>
+-10.1076
+
+>  <SCORE.INTER>
+-7.46059
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.450287
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+7
+
+>  <SCORE.INTER.VDW>
+-18.3296
+
+>  <SCORE.INTER.norm>
+-0.466287
+
+>  <SCORE.INTRA>
+-1.66678
+
+>  <SCORE.INTRA.DIHEDRAL>
+-6.13693
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+20.6363
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+1.40168
+
+>  <SCORE.INTRA.VDW.0>
+-2.69438
+
+>  <SCORE.INTRA.norm>
+-0.104174
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-0.980262
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+0.149647
+
+>  <SCORE.SYSTEM.POLAR>
+-0.00967869
+
+>  <SCORE.SYSTEM.VDW>
+-1.02218
+
+>  <SCORE.SYSTEM.norm>
+-0.0612664
+
+>  <SCORE.heavy>
+16
+
+>  <SCORE.norm>
+-0.631727
+
+>  <TITLE>
+    Disulfiram                                                            
+
+$$$$
+Disulfiram.pdb
+  RxDock  02242101183D
+librxdock.so/0.1.0
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+  -47.2332   -0.2291   15.7779 S   0  0  0  0  0  0
+  -49.0632   -0.1506   16.7250 S   0  0  0  0  0  0
+  -46.3707   -0.2434   18.6260 S   0  0  0  0  0  0
+  -48.7571   -2.5652   18.4372 S   0  0  0  0  0  0
+  -45.2977   -1.8965   16.6952 N   0  0  0  0  0  0
+  -50.1663   -2.5430   16.0652 N   0  0  0  0  0  0
+  -44.3826   -2.5683   17.6243 C   0  0  0  0  0  0
+  -45.1858   -2.3771   15.3160 C   0  0  0  0  0  0
+  -50.5312   -3.9557   16.2005 C   0  0  0  0  0  0
+  -50.7125   -1.9110   14.8601 C   0  0  0  0  0  0
+  -43.2326   -1.6648   18.0197 C   0  0  0  0  0  0
+  -44.0848   -1.6581   14.5646 C   0  0  0  0  0  0
+  -49.3331   -4.8600   16.0005 C   0  0  0  0  0  0
+  -49.6988   -1.8939   13.7355 C   0  0  0  0  0  0
+  -46.1934   -0.8733   17.0663 C   0  0  0  0  0  0
+  -49.3815   -1.8733   17.0266 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 15  1  0  0  0
+  2 16  1  0  0  0
+  3 15  2  0  0  0
+  4 16  2  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  5 15  1  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  6 16  1  0  0  0
+  7 11  1  0  0  0
+  8 12  1  0  0  0
+  9 13  1  0  0  0
+ 10 14  1  0  0  0
+M  END
+>  <CHROM.0>
+-176.88581234,177.40471992,-66.07327909
+
+>  <CHROM.1>
+-64.74144403,-43.61046359,86.38497954,106.17284904,-85.43080820,110.40000016
+-96.75339037,-47.55250796,-1.68808762,16.63737789,-0.27487844,-0.12431809
+-1.91680993
+
+>  <HEADER>
+                                                                          
+
+>  <MASTER>
+        0    0    0    0    0    0    0    0   36    0   36    0          
+
+>  <Name>
+Disulfiram.pdb
+
+>  <RI>
+-9.61359e+08
+
+>  <Rbt.Current_Directory>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/ligands/prepped_ligands/Disulfiram
+
+>  <Rbt.Executable>
+rbdock/0.1.0
+
+>  <Rbt.Library>
+librxdock.so/0.1.0
+
+>  <Rbt.Parameter_File>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+def.prm
+
+>  <SCORE>
+-7.21787
+
+>  <SCORE.INTER>
+-3.78357
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.133738
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+7
+
+>  <SCORE.INTER.VDW>
+-15.7289
+
+>  <SCORE.INTER.norm>
+-0.236473
+
+>  <SCORE.INTRA>
+-2.41469
+
+>  <SCORE.INTRA.DIHEDRAL>
+-4.99915
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+20.6363
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+0.0848873
+
+>  <SCORE.INTRA.VDW.0>
+-2.69438
+
+>  <SCORE.INTRA.norm>
+-0.150918
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-1.01961
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+0.150081
+
+>  <SCORE.SYSTEM.VDW>
+-1.09465
+
+>  <SCORE.SYSTEM.norm>
+-0.0637259
+
+>  <SCORE.heavy>
+16
+
+>  <SCORE.norm>
+-0.451117
+
+>  <TITLE>
+    Disulfiram                                                            
+
+$$$$
+Disulfiram.pdb
+  RxDock  02242101183D
+librxdock.so/0.1.0
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+  -52.0284   -2.7216   14.7016 S   0  0  0  0  0  0
+  -51.5854   -4.7336   14.7903 S   0  0  0  0  0  0
+  -51.9686   -2.2844   17.6446 S   0  0  0  0  0  0
+  -54.0511   -4.7961   16.4553 S   0  0  0  0  0  0
+  -49.9267   -1.5377   15.9461 N   0  0  0  0  0  0
+  -51.6634   -5.9495   17.2174 N   0  0  0  0  0  0
+  -49.0811   -1.0060   17.0206 C   0  0  0  0  0  0
+  -49.3318   -1.4025   14.6144 C   0  0  0  0  0  0
+  -52.2329   -6.4371   18.4764 C   0  0  0  0  0  0
+  -50.2564   -6.3181   17.0309 C   0  0  0  0  0  0
+  -49.6078    0.3174   17.5366 C   0  0  0  0  0  0
+  -48.5989   -2.6624   14.2028 C   0  0  0  0  0  0
+  -52.1995   -5.3703   19.5507 C   0  0  0  0  0  0
+  -49.3298   -5.1930   17.4407 C   0  0  0  0  0  0
+  -51.1985   -2.1107   16.1488 C   0  0  0  0  0  0
+  -52.4226   -5.2164   16.2822 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 15  1  0  0  0
+  2 16  1  0  0  0
+  3 15  2  0  0  0
+  4 16  2  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  5 15  1  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  6 16  1  0  0  0
+  7 11  1  0  0  0
+  8 12  1  0  0  0
+  9 13  1  0  0  0
+ 10 14  1  0  0  0
+M  END
+>  <CHROM.0>
+179.26910531,-179.32537075,-88.50487788
+
+>  <CHROM.1>
+64.69905876,-81.00878339,51.35026015,105.25149640,95.07301752,96.73303915
+-97.18138036,-51.29265192,-3.59387616,16.41680781,0.42759176,-0.97481346
+-1.39414269
+
+>  <HEADER>
+                                                                          
+
+>  <MASTER>
+        0    0    0    0    0    0    0    0   36    0   36    0          
+
+>  <Name>
+Disulfiram.pdb
+
+>  <RI>
+-9.61359e+08
+
+>  <Rbt.Current_Directory>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/ligands/prepped_ligands/Disulfiram
+
+>  <Rbt.Executable>
+rbdock/0.1.0
+
+>  <Rbt.Library>
+librxdock.so/0.1.0
+
+>  <Rbt.Parameter_File>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+def.prm
+
+>  <SCORE>
+-9.13349
+
+>  <SCORE.INTER>
+-5.59181
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.683269
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+7
+
+>  <SCORE.INTER.VDW>
+-15.6687
+
+>  <SCORE.INTER.norm>
+-0.349488
+
+>  <SCORE.INTRA>
+-3.44555
+
+>  <SCORE.INTRA.DIHEDRAL>
+-4.73036
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+20.6363
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+-1.08037
+
+>  <SCORE.INTRA.VDW.0>
+-2.69438
+
+>  <SCORE.INTRA.norm>
+-0.215347
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-0.09613
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+1.67896
+
+>  <SCORE.SYSTEM.VDW>
+-0.935611
+
+>  <SCORE.SYSTEM.norm>
+-0.00600813
+
+>  <SCORE.heavy>
+16
+
+>  <SCORE.norm>
+-0.570843
+
+>  <TITLE>
+    Disulfiram                                                            
+
+$$$$
+Disulfiram.pdb
+  RxDock  02242101183D
+librxdock.so/0.1.0
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+  -51.2210   -1.8543   16.9044 S   0  0  0  0  0  0
+  -49.8207   -0.9602   15.6830 S   0  0  0  0  0  0
+  -52.0806   -2.5197   14.1341 S   0  0  0  0  0  0
+  -49.8114    0.9091   17.9985 S   0  0  0  0  0  0
+  -52.5696   -4.1354   16.3164 N   0  0  0  0  0  0
+  -47.5214    0.0320   16.7339 N   0  0  0  0  0  0
+  -53.2501   -5.1724   15.5331 C   0  0  0  0  0  0
+  -52.5090   -4.4323   17.7496 C   0  0  0  0  0  0
+  -46.6581    0.7908   17.6428 C   0  0  0  0  0  0
+  -46.7797   -0.7434   15.7345 C   0  0  0  0  0  0
+  -54.7559   -5.0193   15.6011 C   0  0  0  0  0  0
+  -51.2295   -5.1564   18.1134 C   0  0  0  0  0  0
+  -46.5871    0.1440   19.0102 C   0  0  0  0  0  0
+  -46.5720   -2.1739   16.1855 C   0  0  0  0  0  0
+  -52.0341   -2.9522   15.7687 C   0  0  0  0  0  0
+  -48.9271    0.0463   16.8443 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 15  1  0  0  0
+  2 16  1  0  0  0
+  3 15  2  0  0  0
+  4 16  2  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  5 15  1  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  6 16  1  0  0  0
+  7 11  1  0  0  0
+  8 12  1  0  0  0
+  9 13  1  0  0  0
+ 10 14  1  0  0  0
+M  END
+>  <CHROM.0>
+59.94849047,63.64763565,-59.21190115
+
+>  <CHROM.1>
+-175.90607216,-28.47386144,-42.91670784,81.37321737,92.42527907,-104.92324407
+95.22947951,-50.27906918,-1.86096537,16.52709296,-3.08537908,-0.70067878
+-1.16412584
+
+>  <HEADER>
+                                                                          
+
+>  <MASTER>
+        0    0    0    0    0    0    0    0   36    0   36    0          
+
+>  <Name>
+Disulfiram.pdb
+
+>  <RI>
+-9.61359e+08
+
+>  <Rbt.Current_Directory>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/ligands/prepped_ligands/Disulfiram
+
+>  <Rbt.Executable>
+rbdock/0.1.0
+
+>  <Rbt.Library>
+librxdock.so/0.1.0
+
+>  <Rbt.Parameter_File>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+def.prm
+
+>  <SCORE>
+-7.83046
+
+>  <SCORE.INTER>
+-4.96566
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.0663352
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+7
+
+>  <SCORE.INTER.VDW>
+-17.1401
+
+>  <SCORE.INTER.norm>
+-0.310354
+
+>  <SCORE.INTRA>
+-1.84858
+
+>  <SCORE.INTRA.DIHEDRAL>
+-8.00978
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+20.6363
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+2.15631
+
+>  <SCORE.INTRA.VDW.0>
+-2.69438
+
+>  <SCORE.INTRA.norm>
+-0.115536
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-1.01622
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+0.0665947
+
+>  <SCORE.SYSTEM.POLAR>
+-0.00277274
+
+>  <SCORE.SYSTEM.VDW>
+-1.04009
+
+>  <SCORE.SYSTEM.norm>
+-0.0635135
+
+>  <SCORE.heavy>
+16
+
+>  <SCORE.norm>
+-0.489404
+
+>  <TITLE>
+    Disulfiram                                                            
+
+$$$$
+Disulfiram.pdb
+  RxDock  02242101183D
+librxdock.so/0.1.0
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+  -50.7581   -5.6430   15.8462 S   0  0  0  0  0  0
+  -52.5778   -5.8497   16.7939 S   0  0  0  0  0  0
+  -48.6955   -4.6877   17.7669 S   0  0  0  0  0  0
+  -52.3719   -4.5184   19.4473 S   0  0  0  0  0  0
+  -50.5833   -3.0434   16.6074 N   0  0  0  0  0  0
+  -51.5085   -7.0930   18.9587 N   0  0  0  0  0  0
+  -50.0921   -1.8304   17.2704 C   0  0  0  0  0  0
+  -51.7461   -2.8086   15.7480 C   0  0  0  0  0  0
+  -51.0841   -7.2774   20.3490 C   0  0  0  0  0  0
+  -51.2920   -8.2759   18.1196 C   0  0  0  0  0  0
+  -48.8206   -1.3215   16.6228 C   0  0  0  0  0  0
+  -51.3309   -2.4751   14.3302 C   0  0  0  0  0  0
+  -52.2590   -7.5932   21.2507 C   0  0  0  0  0  0
+  -49.8574   -8.3623   17.6433 C   0  0  0  0  0  0
+  -50.0193   -4.3238   16.7790 C   0  0  0  0  0  0
+  -52.0864   -5.8906   18.5017 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 15  1  0  0  0
+  2 16  1  0  0  0
+  3 15  2  0  0  0
+  4 16  2  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  5 15  1  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  6 16  1  0  0  0
+  7 11  1  0  0  0
+  8 12  1  0  0  0
+  9 13  1  0  0  0
+ 10 14  1  0  0  0
+M  END
+>  <CHROM.0>
+-69.06401411,62.18988235,-175.45661645
+
+>  <CHROM.1>
+-48.00137954,110.76167404,105.46027137,-104.65328293,90.20323735,-99.50834962
+-81.30764483,-50.97452912,-5.08719417,17.58494372,0.14412108,-1.33284547
+-2.03767557
+
+>  <HEADER>
+                                                                          
+
+>  <MASTER>
+        0    0    0    0    0    0    0    0   36    0   36    0          
+
+>  <Name>
+Disulfiram.pdb
+
+>  <RI>
+-9.61359e+08
+
+>  <Rbt.Current_Directory>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/ligands/prepped_ligands/Disulfiram
+
+>  <Rbt.Executable>
+rbdock/0.1.0
+
+>  <Rbt.Library>
+librxdock.so/0.1.0
+
+>  <Rbt.Parameter_File>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+def.prm
+
+>  <SCORE>
+-5.75109
+
+>  <SCORE.INTER>
+-2.79976
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.2122
+
+>  <SCORE.INTER.REPUL>
+0
+
+>  <SCORE.INTER.ROT>
+7
+
+>  <SCORE.INTER.VDW>
+-14.4783
+
+>  <SCORE.INTER.norm>
+-0.174985
+
+>  <SCORE.INTRA>
+-2.07452
+
+>  <SCORE.INTRA.DIHEDRAL>
+-3.10259
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+20.6363
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+-0.523219
+
+>  <SCORE.INTRA.VDW.0>
+-2.69438
+
+>  <SCORE.INTRA.norm>
+-0.129657
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-0.876818
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+0.276237
+
+>  <SCORE.SYSTEM.POLAR>
+-0.0114591
+
+>  <SCORE.SYSTEM.VDW>
+-0.975976
+
+>  <SCORE.SYSTEM.norm>
+-0.0548011
+
+>  <SCORE.heavy>
+16
+
+>  <SCORE.norm>
+-0.359443
+
+>  <TITLE>
+    Disulfiram                                                            
+
+$$$$
+Disulfiram.pdb
+  RxDock  02242101183D
+librxdock.so/0.1.0
+ 16 15  0  0  0  0  0  0  0  0999 V2000
+  -47.0208   -2.6843   14.5182 S   0  0  0  0  0  0
+  -47.2239   -0.6411   14.3280 S   0  0  0  0  0  0
+  -49.2730   -3.4213   12.7180 S   0  0  0  0  0  0
+  -49.7948   -0.3199   15.7918 S   0  0  0  0  0  0
+  -49.4302   -3.4925   15.4716 N   0  0  0  0  0  0
+  -47.3216    0.1175   16.9339 N   0  0  0  0  0  0
+  -50.8151   -3.9763   15.4885 C   0  0  0  0  0  0
+  -48.8689   -3.2832   16.8083 C   0  0  0  0  0  0
+  -47.9144    0.4495   18.2322 C   0  0  0  0  0  0
+  -45.8560    0.1654   16.9311 C   0  0  0  0  0  0
+  -50.8771   -5.4834   15.3464 C   0  0  0  0  0  0
+  -48.0623   -4.4806   17.2661 C   0  0  0  0  0  0
+  -48.1760   -0.7933   19.0569 C   0  0  0  0  0  0
+  -45.2564   -1.2103   17.1324 C   0  0  0  0  0  0
+  -48.6968   -3.2303   14.2968 C   0  0  0  0  0  0
+  -48.1066   -0.2317   15.8157 C   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 15  1  0  0  0
+  2 16  1  0  0  0
+  3 15  2  0  0  0
+  4 16  2  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  5 15  1  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+  6 16  1  0  0  0
+  7 11  1  0  0  0
+  8 12  1  0  0  0
+  9 13  1  0  0  0
+ 10 14  1  0  0  0
+M  END
+>  <CHROM.0>
+64.14430991,63.55130794,-55.46344195
+
+>  <CHROM.1>
+69.67776109,83.19932455,-86.92075038,-96.57436290,96.21663241,-93.65491040
+96.88851946,-48.29761642,-1.98481258,15.63150669,-2.38078675,0.85991952,1.30025551
+
+>  <HEADER>
+                                                                          
+
+>  <MASTER>
+        0    0    0    0    0    0    0    0   36    0   36    0          
+
+>  <Name>
+Disulfiram.pdb
+
+>  <RI>
+-9.61359e+08
+
+>  <Rbt.Current_Directory>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/ligands/prepped_ligands/Disulfiram
+
+>  <Rbt.Executable>
+rbdock/0.1.0
+
+>  <Rbt.Library>
+librxdock.so/0.1.0
+
+>  <Rbt.Parameter_File>
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/scripts/dock.prm
+
+>  <Rbt.Receptor>
+def.prm
+
+>  <SCORE>
+-7.85613
+
+>  <SCORE.INTER>
+-4.80991
+
+>  <SCORE.INTER.CONST>
+1
+
+>  <SCORE.INTER.POLAR>
+-0.329335
+
+>  <SCORE.INTER.REPUL>
+0.103093
+
+>  <SCORE.INTER.ROT>
+7
+
+>  <SCORE.INTER.VDW>
+-16.6056
+
+>  <SCORE.INTER.norm>
+-0.300619
+
+>  <SCORE.INTRA>
+-2.09791
+
+>  <SCORE.INTRA.DIHEDRAL>
+-2.58941
+
+>  <SCORE.INTRA.DIHEDRAL.0>
+20.6363
+
+>  <SCORE.INTRA.POLAR>
+0
+
+>  <SCORE.INTRA.POLAR.0>
+0
+
+>  <SCORE.INTRA.REPUL>
+0
+
+>  <SCORE.INTRA.REPUL.0>
+0
+
+>  <SCORE.INTRA.VDW>
+-0.803206
+
+>  <SCORE.INTRA.VDW.0>
+-2.69438
+
+>  <SCORE.INTRA.norm>
+-0.131119
+
+>  <SCORE.RESTR>
+0
+
+>  <SCORE.RESTR.CAVITY>
+0
+
+>  <SCORE.RESTR.norm>
+0
+
+>  <SCORE.SYSTEM>
+-0.948311
+
+>  <SCORE.SYSTEM.CONST>
+0
+
+>  <SCORE.SYSTEM.DIHEDRAL>
+0.148303
+
+>  <SCORE.SYSTEM.POLAR>
+-0.0106471
+
+>  <SCORE.SYSTEM.VDW>
+-0.986262
+
+>  <SCORE.SYSTEM.norm>
+-0.0592694
+
+>  <SCORE.heavy>
+16
+
+>  <SCORE.norm>
+-0.491008
+
+>  <TITLE>
+    Disulfiram                                                            
+
+$$$$

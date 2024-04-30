@@ -1,0 +1,75 @@
+***********************************************
+The RxDock molecular docking program is licensed under GNU LGPL version 3.
+RxDock is maintained by Vedran Miletić, Patrik Nikolić, and Luka Vretenar.
+Visit https://www.rxdock.org/ for more information.
+Executable:	rbdock/0.1.0
+Library:	librxdock.so/0.1.0
+RBT_ROOT:	/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0
+RBT_HOME:	/root
+Current dir:	/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/ligands/prepped_ligands/Berchemol
+Date:		Wed Feb 24 12:49:01 2021
+***********************************************
+
+Command line args:
+ -i Berchemol.sdf
+ -r def.prm
+ -p dock.prm
+ -o docking_out4
+ -n 10
+Reading polar hydrogens only from ligand SD file
+
+DOCKING PROTOCOL:
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/scripts/dock.prm
+Free docking (indexed VDW)
+
+RECEPTOR:
+def.prm
+trial_rdock
+
+DOCKING SITE
+Total volume 875.5 A^3
+Cavity #1	Size=7004 points; Vol=875.5 A^3; Min=(-58.5,-11,10); Max=(-40.5,5,23); Center=(-49.2116,-2.81439,17.1205); Extent=(18,16,13)
+
+
+No solvent
+
+------------- Terminate filter 0------------
+
+if (SCORE.NRUNS - 9 ) > 0 then
+	0.0 
+else
+	-1.0 
+end
+
+
+**************************************************
+RECORD #1
+NAME:   Berchemol.pdb
+RNG seed:                     std::random_device
+Numer of docking runs done:   10 (0 errors)
+Ligand docking duration:      58.020 second(s)
+
+Average duration per ligand:  58.020 second(s)
+Approximately 0 record(s) remaining, will finish Wed Feb 24 12:50:03 2021
+
+**************************************************
+Total number of ligands: 1, all ligands docked without errors
+Docking duration for 1 ligand(s): 58.020 second(s)
+
+END OF RUN
+
+Please cite the following article: Morley, S David and Afshar, Mohammad.
+Validation of an empirical RNA-ligand scoring function for fast flexible docking
+using RiboDock®. Journal of computer-aided molecular design 18(3), 189--208
+(2004).
+Please cite the following article: Ruiz-Carmona, Sergio and Alvarez-Garcia,
+Daniel and Foloppe, Nicolas and Garmendia-Doval, A Beatriz and Juhos,
+Szilveszter and Schmidtke, Peter and Barril, Xavier and Hubbard, Roderick E and
+Morley, S David. rDock: a fast, versatile and open source program for docking
+ligands to proteins and nucleic acids. PLoS computational biology 10(4),
+e1003571 (2014).
+Please cite the following techreport: Melissa E. O'Neill. PCG: A Family of
+Simple Fast Space-Efficient Statistically Good Algorithms for Random Number
+Generation. https://www.cs.hmc.edu/tr/hmc-cs-2014-0905.pdf (2014).
+
+Thank you for using RxDock 0.1.0.

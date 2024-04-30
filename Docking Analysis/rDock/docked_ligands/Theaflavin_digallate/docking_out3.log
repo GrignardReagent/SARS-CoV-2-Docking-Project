@@ -1,0 +1,46 @@
+***********************************************
+The RxDock molecular docking program is licensed under GNU LGPL version 3.
+RxDock is maintained by Vedran Miletić, Patrik Nikolić, and Luka Vretenar.
+Visit https://www.rxdock.org/ for more information.
+Executable:	rbdock/0.1.0
+Library:	librxdock.so/0.1.0
+RBT_ROOT:	/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0
+RBT_HOME:	/root
+Current dir:	/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/ligands/prepped_ligands/Theaflavin_digallate
+Date:		Wed Feb 24 12:14:30 2021
+***********************************************
+
+Command line args:
+ -i Theaflavin_digallate.sdf
+ -r def.prm
+ -p dock.prm
+ -o docking_out3
+ -n 10
+Reading polar hydrogens only from ligand SD file
+
+DOCKING PROTOCOL:
+/root/miniconda3/envs/rdock/share/rxdock-2013.1.1_148c5bd1-0/data/scripts/dock.prm
+Free docking (indexed VDW)
+
+RECEPTOR:
+def.prm
+trial_rdock
+
+DOCKING SITE
+Total volume 875.5 A^3
+Cavity #1	Size=7004 points; Vol=875.5 A^3; Min=(-58.5,-11,10); Max=(-40.5,5,23); Center=(-49.2116,-2.81439,17.1205); Extent=(18,16,13)
+
+
+No solvent
+
+------------- Terminate filter 0------------
+
+if (SCORE.NRUNS - 9 ) > 0 then
+	0.0 
+else
+	-1.0 
+end
+
+
+**************************************************
+RECORD #1

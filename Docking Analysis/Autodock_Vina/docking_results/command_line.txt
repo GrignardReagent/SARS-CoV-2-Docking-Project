@@ -1,0 +1,1 @@
+"vina" --config config_baicalein.txt --log log_baicalein.txt --out output_baicalein.pdbqt
