@@ -1,0 +1,113 @@
+LICENSE cressetbmd flare 99.0 04-oct-2022 uncounted hostid=ANY
+  start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=d01ec4bc86 sig="60P0453NKRG7UHD
+  T3SBE7W63E8WY4AH6WR7EET022GBHTWXTM3QCH6QRJXF4GHFXYXGAV9KQUG"
+LICENSE cressetbmd flare_protein_prep 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=461ec46704 sig="60P0450XEPFPPX8
+  F31Q4VKP61PARVU8D478AHAR22GQPCFEEEPB9DSP9RUJ6PJNFTEU7170K18"
+LICENSE cressetbmd flare_minimization 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=471ec45805 sig="60P0450T4B1SSK7
+  9B9PHF1REY3UEBGTTENDEW7822G6VY29S2YYJ2HU111SWUEF0YS0GAEFS3V"
+LICENSE cressetbmd flare_docking_multi_local 99.0 04-oct-2022
+  uncounted hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w
+   x64_m" customer=Univeristy_of_Edinburgh _ck=021ec447fa sig="60P0453
+  ARRCQE43ECARG19PNMQUUE5GPQC9T6TR22HUF7H7K91KQB4YN39MY811VM5A59NUEDV"
+LICENSE cressetbmd flare_python 99.0 04-oct-2022 uncounted hostid=ANY
+  start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=d11ec4a154 sig="60P0451GACJU987
+  SGCPHMGF6FR7H5JM7A1KE2T022GDK822BP0B4HWT08T8VJ6677PT64D0AN8"
+LICENSE cressetbmd flare_protein_fields 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=061ec43a27 sig="60P0450NNANGW80
+  SMDN3D7JARAE4PRSTRM4WCYR22GX16GDXSHRN5363VYF1JJ507656GTCG0M"
+LICENSE cressetbmd flare_electrostatic_scoring 99.0 04-oct-2022
+  uncounted hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w
+   x64_m" customer=Univeristy_of_Edinburgh _ck=f91ec4ec94 sig="60P0453
+  VC381218835R4YRSDARNPAT1USBH1BB822G3J631UP2RHUBTBU1RR7DVXM7GJUNN8UV"
+LICENSE cressetbmd flare_align 99.0 04-oct-2022 uncounted hostid=ANY
+  start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=3a1ec47830 sig="60P045374TK8E9E
+  4EW1EVVT33W94HNVA1AAS0F022HKNYXFDXNNP2Y5T4S1PJA959HR6EV4F98"
+LICENSE cressetbmd flare_remote 99.0 04-oct-2022 uncounted hostid=ANY
+  start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=bb1ec4eebb sig="60P04525MR7NFQC
+  VTUKMW6XWEJPW1KBE8VT0QB022H2E0HP7J984TFM6HAMRWN0QS6772B91X0"
+LICENSE cressetbmd flare_task 99.0 04-oct-2022 uncounted hostid=ANY
+  start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=e21ec4c35a sig="60P0450WVK40FXG
+  U5DWT5V6WG2EM4CNFSEP77U022G16A4KRS0ADAF6K6Y7CW99B35CYDMR6UG"
+LICENSE cressetbmd flare_conformation_explorer 99.0 04-oct-2022
+  uncounted hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w
+   x64_m" customer=Univeristy_of_Edinburgh _ck=0e1ec4e35a sig="60PG452
+  8BYAU537M4NRJXQE04QQ89YY8EYDW13G22M080T2XHF6WN50ST4DYAT9WW7HNE9GCGSF
+  G"
+LICENSE cressetbmd flare_activity_miner 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=161ec4e932 sig="60P0452C1880Y6E
+  QBGT8RH3TSRFU66P13BRKWQG22GKCS4S1US63BT2M39E3U78V7564RF79SR"
+LICENSE cressetbmd flare_qsar_building 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=931ec45705 sig="60P04509DBK2Q2X
+  TN24MR8R2Q4WCYE867R036W022HKS174WCMPWRPAKHXE9U5U1KT66JH8GJ4"
+LICENSE cressetbmd flare_qsar_viewing 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=3e1ec47d60 sig="60P045018V881BM
+  MMPUBM92G680JJMH8C0FYNJ822GPACFDGYEET9VTDU3YTWGAMJ3S3DCA4SM"
+LICENSE cressetbmd flare_fieldtemplater 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=011ec4d426 sig="60P0451P3J7QES7
+  P6KJCYFXWCSKDNJA0GEFRU0R22GPWMKXCD9JRRVPNRU69TNK3CCR4EQR28C"
+LICENSE cressetbmd flare_3d_rism 99.0 04-oct-2022 uncounted hostid=ANY
+  start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=e01ec4cd89 sig="60P0450Q1FWV8EK
+  0RHA4SYFAGHV210SFEBH7ANG22HTB89Q5ERDHD6TUQWWDJG2FP4UCW1AD1M"
+LICENSE cressetbmd flare_waterswap 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=0d1ec40021 sig="60P0453JGMWPJ2U
+  3WEDXPQ4PRTXNNE2EMHU9RHG22GUX1UFHCS2YJ642JSJKGUFYX8K3JC2YBV"
+LICENSE cressetbmd flare_customff 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=961ec4590a sig="60P0450KA08PEUJ
+  9SMWN6GJYU9UXYP6QM6RYC9022GX6T71F13M7Q17TGK8XSVFJU9CXACR1D0"
+LICENSE cressetbmd flare_remote 99.0 04-oct-2022 uncounted hostid=ANY
+  start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=bb1ec4ceb9 sig="60P0452MVYNW8FG
+  F2Y3R04UJ3PUU2GA083NHU9022HNWVUU9DK73QGQWSA2TDJKBT6RAWDE0AR"
+LICENSE cressetbmd flare_task 99.0 04-oct-2022 uncounted hostid=ANY
+  start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=e21ec40327 sig="60P0453PX7H33YS
+  U2VBSYMPRTS6HYNQBQA6Y39R22G8E94DAYQSUX9V6M1JX2GS4W4A7FYGTR8"
+LICENSE cressetbmd flare_dynamics 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=871ec47a34 sig="60P0452SSS938SQ
+  W2G19Q20N4VG0C9VRWKWR1E822H5CK66B2V29124MC7T8HWYHQ7S6560BTC"
+LICENSE cressetbmd flare_gist 99.0 04-oct-2022 uncounted hostid=ANY
+  start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=e61ec47e64 sig="60P0451XW7XJYY8
+  4V2PGN2HR94N7U1A4A8AC7C822GUUNFP6CM9CCT2TQ5Y9E21U60KB9S6WGC"
+LICENSE cressetbmd fieldengine_gpu 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=eb1ec4d78f sig="60P0452JB0J3VY2
+  X8RCRBH0NTN0YXY0DJ8Y2K4022G8PM0CAVNRTU7TT1AU1NT1CN8WNUYNAFC"
+LICENSE cressetbmd forge 99.0 04-oct-2022 uncounted hostid=ANY
+  start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=d91ec45332 sig="60P045260RWR0HV
+  BN16KU7873J451WW7RX5W5G022HMX1QRV382EW63845BA7PQBG31G88XMTR"
+LICENSE cressetbmd forge_build 99.0 04-oct-2022 uncounted hostid=ANY
+  start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=481ec44300 sig="60P0451XXCT2M7Y
+  MRVDEEWFMNDT8W7SHNNBVKVR22H6C3FQVRAFMUEY7Q8W9XE7VR65NSY9DYM"
+LICENSE cressetbmd activity_miner_forge 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=1f1ec42b58 sig="60P0453Y87HVEH5
+  8SKFM6GW39CFYVMXDA4QKJWR22G9VH0TP6BS54YHDGXMAXBRKR7G3GKC3HM"
+LICENSE cressetbmd fieldtemplater 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=981ec43405 sig="60P0450CQNG3QBT
+  GYPA67DNP97XJGVU32J55T5822G0DJT6F7QGRQ59CUNUPGXJ8283XRETR6G"
+LICENSE cressetbmd fieldengine_localhost 99.0 04-oct-2022 uncounted
+  hostid=ANY start=4-oct-2021 platforms="x64_l x86_w x64_w x64_m"
+  customer=Univeristy_of_Edinburgh _ck=681ec4d938 sig="60P0453PUDYDJDX
+  Q0HSDN5NTF5SYEY3KHH75H3G22H3R76SE1PFWTX97R77N1JBN2XF6XJHXGM"
